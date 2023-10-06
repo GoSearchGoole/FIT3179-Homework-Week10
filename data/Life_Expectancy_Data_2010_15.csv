@@ -1,1099 +1,1099 @@
-Country,Year,Status,Life Expectancy,Adult Mortality
-Afghanistan,2015,Developing,65,263
-Afghanistan,2014,Developing,59.9,271
-Afghanistan,2013,Developing,59.9,268
-Afghanistan,2012,Developing,59.5,272
-Afghanistan,2011,Developing,59.2,275
-Afghanistan,2010,Developing,58.8,279
-Albania,2015,Developing,77.8,74
-Albania,2014,Developing,77.5,8
-Albania,2013,Developing,77.2,84
-Albania,2012,Developing,76.9,86
-Albania,2011,Developing,76.6,88
-Albania,2010,Developing,76.2,91
-Algeria,2015,Developing,75.6,19
-Algeria,2014,Developing,75.4,11
-Algeria,2013,Developing,75.3,112
-Algeria,2012,Developing,75.1,113
-Algeria,2011,Developing,74.9,116
-Algeria,2010,Developing,74.7,119
-Angola,2015,Developing,52.4,335
-Angola,2014,Developing,51.7,348
-Angola,2013,Developing,51.1,355
-Angola,2012,Developing,56,358
-Angola,2011,Developing,51,361
-Angola,2010,Developing,49.6,365
-Antigua and Barbuda,2015,Developing,76.4,13
-Antigua and Barbuda,2014,Developing,76.2,131
-Antigua and Barbuda,2013,Developing,76.1,133
-Antigua and Barbuda,2012,Developing,75.9,134
-Antigua and Barbuda,2011,Developing,75.7,136
-Antigua and Barbuda,2010,Developing,75.6,138
-Argentina,2015,Developing,76.3,116
-Argentina,2014,Developing,76.2,118
-Argentina,2013,Developing,76,119
-Argentina,2012,Developing,75.9,12
-Argentina,2011,Developing,75.7,12
-Argentina,2010,Developing,75.5,121
-Armenia,2015,Developing,74.8,118
-Armenia,2014,Developing,74.6,12
-Armenia,2013,Developing,74.4,123
-Armenia,2012,Developing,74.4,121
-Armenia,2011,Developing,73.9,128
-Armenia,2010,Developing,73.5,132
-Australia,2015,Developed,82.8,59
-Australia,2014,Developed,82.7,6
-Australia,2013,Developed,82.5,61
-Australia,2012,Developed,82.3,61
-Australia,2011,Developed,82,63
-Australia,2010,Developed,81.9,64
-Austria,2015,Developed,81.5,65
-Austria,2014,Developed,81.4,66
-Austria,2013,Developed,81.1,68
-Austria,2012,Developed,88,7
-Austria,2011,Developed,88,73
-Austria,2010,Developed,84,75
-Azerbaijan,2015,Developing,72.7,118
-Azerbaijan,2014,Developing,72.5,119
-Azerbaijan,2013,Developing,72.2,121
-Azerbaijan,2012,Developing,71.9,123
-Azerbaijan,2011,Developing,71.6,125
-Azerbaijan,2010,Developing,71.1,13
-Bahamas,2015,Developing,76.1,147
-Bahamas,2014,Developing,75.4,16
-Bahamas,2013,Developing,74.8,172
-Bahamas,2012,Developing,74.9,167
-Bahamas,2011,Developing,75,162
-Bahamas,2010,Developing,75,161
-Bahrain,2015,Developing,76.9,69
-Bahrain,2014,Developing,76.8,7
-Bahrain,2013,Developing,76.7,7
-Bahrain,2012,Developing,76.5,71
-Bahrain,2011,Developing,76.1,76
-Bahrain,2010,Developing,76.1,73
-Bangladesh,2015,Developing,71.8,129
-Bangladesh,2014,Developing,71.4,132
-Bangladesh,2013,Developing,71,135
-Bangladesh,2012,Developing,77,137
-Bangladesh,2011,Developing,73,14
-Bangladesh,2010,Developing,69.9,142
-Barbados,2015,Developing,75.5,98
-Barbados,2014,Developing,75.4,1
-Barbados,2013,Developing,75.2,11
-Barbados,2012,Developing,75.1,12
-Barbados,2011,Developing,74.9,14
-Barbados,2010,Developing,74.7,16
-Belarus,2015,Developing,72.3,196
-Belarus,2014,Developing,72,199
-Belarus,2013,Developing,71.7,23
-Belarus,2012,Developing,71.9,194
-Belarus,2011,Developing,72,232
-Belarus,2010,Developing,73,222
-Belgium,2015,Developed,81.1,74
-Belgium,2014,Developed,89,76
-Belgium,2013,Developed,87,77
-Belgium,2012,Developed,83,78
-Belgium,2011,Developed,83,8
-Belgium,2010,Developed,80,81
-Belize,2015,Developing,71,175
-Belize,2014,Developing,70,177
-Belize,2013,Developing,69.8,18
-Belize,2012,Developing,69.4,189
-Belize,2011,Developing,69.4,188
-Belize,2010,Developing,69.5,186
-Benin,2015,Developing,60,249
-Benin,2014,Developing,59.7,252
-Benin,2013,Developing,59.5,251
-Benin,2012,Developing,59.3,251
-Benin,2011,Developing,59.1,251
-Benin,2010,Developing,58.7,254
-Bhutan,2015,Developing,69.8,211
-Bhutan,2014,Developing,69.4,216
-Bhutan,2013,Developing,69.1,219
-Bhutan,2012,Developing,68.7,223
-Bhutan,2011,Developing,68.3,225
-Bhutan,2010,Developing,67.9,228
-Bolivia,2015,Developing,77,186
-Bolivia,2014,Developing,74,189
-Bolivia,2013,Developing,71,192
-Bolivia,2012,Developing,69.8,194
-Bolivia,2011,Developing,69.3,198
-Bolivia,2010,Developing,68.7,22
-Bosnia and Herzegovina,2015,Developing,77.4,88
-Bosnia and Herzegovina,2014,Developing,77.2,89
-Bosnia and Herzegovina,2013,Developing,77,9
-Bosnia and Herzegovina,2012,Developing,76.8,92
-Bosnia and Herzegovina,2011,Developing,76.9,92
-Bosnia and Herzegovina,2010,Developing,76.4,94
-Botswana,2015,Developing,65.7,256
-Botswana,2014,Developing,65.1,268
-Botswana,2013,Developing,64.2,286
-Botswana,2012,Developing,63.4,3
-Botswana,2011,Developing,62.2,325
-Botswana,2010,Developing,61.1,349
-Brazil,2015,Developing,75,142
-Brazil,2014,Developing,74.8,144
-Brazil,2013,Developing,74.7,146
-Brazil,2012,Developing,74.5,148
-Brazil,2011,Developing,74.1,152
-Brazil,2010,Developing,73.8,154
-Brunei Darussalam,2015,Developing,77.7,78
-Brunei Darussalam,2014,Developing,77.6,8
-Brunei Darussalam,2013,Developing,77.1,84
-Brunei Darussalam,2012,Developing,78.3,79
-Brunei Darussalam,2011,Developing,77.4,79
-Brunei Darussalam,2010,Developing,76.9,79
-Bulgaria,2015,Developed,74.5,137
-Bulgaria,2014,Developed,74.3,138
-Bulgaria,2013,Developed,74.1,14
-Bulgaria,2012,Developed,73.9,139
-Bulgaria,2011,Developed,73.7,144
-Bulgaria,2010,Developed,73.4,147
-Burkina Faso,2015,Developing,59.9,26
-Burkina Faso,2014,Developing,59.3,268
-Burkina Faso,2013,Developing,59,27
-Burkina Faso,2012,Developing,58.6,271
-Burkina Faso,2011,Developing,58.1,275
-Burkina Faso,2010,Developing,57.5,279
-Burundi,2015,Developing,59.6,288
-Burundi,2014,Developing,59.1,297
-Burundi,2013,Developing,58.6,33
-Burundi,2012,Developing,58,312
-Burundi,2011,Developing,57.4,321
-Burundi,2010,Developing,56.8,33
-Côte d'Ivoire,2015,Developing,53.3,397
-Côte d'Ivoire,2014,Developing,52.8,47
-Côte d'Ivoire,2013,Developing,52.3,412
-Côte d'Ivoire,2012,Developing,52,415
-Côte d'Ivoire,2011,Developing,51.7,419
-Côte d'Ivoire,2010,Developing,51.5,417
-Cabo Verde,2015,Developing,73.3,114
-Cabo Verde,2014,Developing,73,117
-Cabo Verde,2013,Developing,72.8,12
-Cabo Verde,2012,Developing,72.7,121
-Cabo Verde,2011,Developing,72.6,122
-Cabo Verde,2010,Developing,72.5,123
-Cambodia,2015,Developing,68.7,174
-Cambodia,2014,Developing,68.3,179
-Cambodia,2013,Developing,67.8,183
-Cambodia,2012,Developing,67.4,186
-Cambodia,2011,Developing,67,19
-Cambodia,2010,Developing,66.6,192
-Cameroon,2015,Developing,57.3,357
-Cameroon,2014,Developing,56.7,366
-Cameroon,2013,Developing,56.4,364
-Cameroon,2012,Developing,55.9,369
-Cameroon,2011,Developing,55.6,371
-Cameroon,2010,Developing,55.3,37
-Canada,2015,Developing,82.2,64
-Canada,2014,Developing,82,65
-Canada,2013,Developing,81.8,67
-Canada,2012,Developing,81.6,68
-Canada,2011,Developing,81.5,68
-Canada,2010,Developing,81.2,7
-Central African Rep.,2015,Developing,52.5,397
-Central African Rep.,2014,Developing,58,437
-Central African Rep.,2013,Developing,49.9,451
-Central African Rep.,2012,Developing,53,439
-Central African Rep.,2011,Developing,49.8,443
-Central African Rep.,2010,Developing,49.2,446
-Chad,2015,Developing,53.1,356
-Chad,2014,Developing,52.6,362
-Chad,2013,Developing,52.2,366
-Chad,2012,Developing,51.8,367
-Chad,2011,Developing,51.6,365
-Chad,2010,Developing,51.2,364
-Chile,2015,Developing,85,82
-Chile,2014,Developing,83,83
-Chile,2013,Developing,81,84
-Chile,2012,Developing,79.9,84
-Chile,2011,Developing,79.8,86
-Chile,2010,Developing,79.1,89
-China,2015,Developing,76.1,85
-China,2014,Developing,75.8,86
-China,2013,Developing,75.6,88
-China,2012,Developing,75.4,89
-China,2011,Developing,75.2,91
-China,2010,Developing,75,92
-Colombia,2015,Developing,74.8,143
-Colombia,2014,Developing,74.6,144
-Colombia,2013,Developing,74.4,145
-Colombia,2012,Developing,74.3,143
-Colombia,2011,Developing,74.2,144
-Colombia,2010,Developing,73.6,15
-Comoros,2015,Developing,63.5,227
-Comoros,2014,Developing,63.2,23
-Comoros,2013,Developing,62.9,233
-Comoros,2012,Developing,62.5,237
-Comoros,2011,Developing,62.2,241
-Comoros,2010,Developing,61.8,246
-Congo,2015,Developing,64.7,267
-Congo,2014,Developing,64.2,275
-Congo,2013,Developing,63.9,274
-Congo,2012,Developing,63.7,273
-Congo,2011,Developing,62.9,285
-Congo,2010,Developing,62,298
-Costa Rica,2015,Developing,79.6,95
-Costa Rica,2014,Developing,79.5,96
-Costa Rica,2013,Developing,79.4,96
-Costa Rica,2012,Developing,79.2,97
-Costa Rica,2011,Developing,79,98
-Costa Rica,2010,Developing,78.1,16
-Croatia,2015,Developed,78,95
-Croatia,2014,Developed,77.8,97
-Croatia,2013,Developed,77.7,97
-Croatia,2012,Developed,77.1,14
-Croatia,2011,Developed,77,14
-Croatia,2010,Developed,76.6,16
-Cuba,2015,Developing,79.1,92
-Cuba,2014,Developing,79,93
-Cuba,2013,Developing,78.7,96
-Cuba,2012,Developing,78.7,96
-Cuba,2011,Developing,78.8,92
-Cuba,2010,Developing,78,98
-Cyprus,2015,Developed,85,52
-Cyprus,2014,Developed,83,53
-Cyprus,2013,Developed,81,54
-Cyprus,2012,Developed,80,56
-Cyprus,2011,Developed,79.7,57
-Cyprus,2010,Developed,79.5,59
-Czechia,2015,Developed,78.8,86
-Czechia,2014,Developed,78.6,88
-Czechia,2013,Developed,78.2,9
-Czechia,2012,Developed,78,93
-Czechia,2011,Developed,77.8,97
-Czechia,2010,Developed,77.5,99
-Democratic People's Republic of Korea,2015,Developing,76,139
-Democratic People's Republic of Korea,2014,Developing,73,142
-Democratic People's Republic of Korea,2013,Developing,71,146
-Democratic People's Republic of Korea,2012,Developing,69.8,149
-Democratic People's Republic of Korea,2011,Developing,69.4,153
-Democratic People's Republic of Korea,2010,Developing,69,157
-Dem. Rep. Congo,2015,Developing,59.8,258
-Dem. Rep. Congo,2014,Developing,59.3,266
-Dem. Rep. Congo,2013,Developing,58.8,272
-Dem. Rep. Congo,2012,Developing,58.3,277
-Dem. Rep. Congo,2011,Developing,57.9,278
-Dem. Rep. Congo,2010,Developing,57.4,283
-Denmark,2015,Developed,86,71
-Denmark,2014,Developed,84,73
-Denmark,2013,Developed,81,75
-Denmark,2012,Developed,80,76
-Denmark,2011,Developed,79.7,79
-Denmark,2010,Developed,79.2,84
-Djibouti,2015,Developing,63.5,241
-Djibouti,2014,Developing,63,252
-Djibouti,2013,Developing,62.7,256
-Djibouti,2012,Developing,62.2,263
-Djibouti,2011,Developing,61.8,268
-Djibouti,2010,Developing,61.3,273
-Dominican Rep.,2015,Developing,73.9,152
-Dominican Rep.,2014,Developing,73.6,154
-Dominican Rep.,2013,Developing,73.4,157
-Dominican Rep.,2012,Developing,72.1,174
-Dominican Rep.,2011,Developing,73.1,16
-Dominican Rep.,2010,Developing,72.7,166
-Ecuador,2015,Developing,76.2,118
-Ecuador,2014,Developing,76,121
-Ecuador,2013,Developing,76,121
-Ecuador,2012,Developing,75.5,127
-Ecuador,2011,Developing,75.3,131
-Ecuador,2010,Developing,75,134
-Egypt,2015,Developing,79,159
-Egypt,2014,Developing,78,161
-Egypt,2013,Developing,79,159
-Egypt,2012,Developing,72,165
-Egypt,2011,Developing,74,168
-Egypt,2010,Developing,70,173
-El Salvador,2015,Developing,73.5,178
-El Salvador,2014,Developing,73.3,181
-El Salvador,2013,Developing,73,184
-El Salvador,2012,Developing,73,181
-El Salvador,2011,Developing,72,197
-El Salvador,2010,Developing,72,191
-Equatorial Guinea,2015,Developing,58.2,32
-Equatorial Guinea,2014,Developing,57.9,32
-Equatorial Guinea,2013,Developing,57.4,327
-Equatorial Guinea,2012,Developing,56.7,337
-Equatorial Guinea,2011,Developing,56.2,344
-Equatorial Guinea,2010,Developing,56.1,339
-Eritrea,2015,Developing,64.7,255
-Eritrea,2014,Developing,64.4,261
-Eritrea,2013,Developing,64,266
-Eritrea,2012,Developing,63.6,274
-Eritrea,2011,Developing,62.9,286
-Eritrea,2010,Developing,62.1,298
-Estonia,2015,Developing,77.6,119
-Estonia,2014,Developing,77.3,122
-Estonia,2013,Developing,76.9,127
-Estonia,2012,Developing,76.3,135
-Estonia,2011,Developing,76.1,138
-Estonia,2010,Developing,75.6,137
-Ethiopia,2015,Developing,64.8,225
-Ethiopia,2014,Developing,64.2,234
-Ethiopia,2013,Developing,63.7,237
-Ethiopia,2012,Developing,63.3,241
-Ethiopia,2011,Developing,62.6,249
-Ethiopia,2010,Developing,61.8,261
-Fiji,2015,Developing,69.9,188
-Fiji,2014,Developing,69.7,19
-Fiji,2013,Developing,69.6,192
-Fiji,2012,Developing,69.4,195
-Fiji,2011,Developing,69.2,197
-Fiji,2010,Developing,69.1,2
-Finland,2015,Developing,81.1,76
-Finland,2014,Developing,89,78
-Finland,2013,Developing,87,79
-Finland,2012,Developing,84,82
-Finland,2011,Developing,83,86
-Finland,2010,Developing,79.9,89
-France,2015,Developing,82.4,78
-France,2014,Developing,82.2,79
-France,2013,Developing,82,81
-France,2012,Developing,81.5,83
-France,2011,Developing,81.7,83
-France,2010,Developing,81.3,86
-Gabon,2015,Developing,66,229
-Gabon,2014,Developing,65.5,237
-Gabon,2013,Developing,64.6,255
-Gabon,2012,Developing,63.5,276
-Gabon,2011,Developing,62.8,289
-Gabon,2010,Developing,62.3,294
-Gambia,2015,Developing,61.1,262
-Gambia,2014,Developing,68,266
-Gambia,2013,Developing,66,266
-Gambia,2012,Developing,62,269
-Gambia,2011,Developing,59.8,277
-Gambia,2010,Developing,59.3,284
-Georgia,2015,Developing,74.4,129
-Georgia,2014,Developing,74.5,125
-Georgia,2013,Developing,74.5,128
-Georgia,2012,Developing,74.2,13
-Georgia,2011,Developing,73.9,127
-Georgia,2010,Developing,73.8,132
-Germany,2015,Developed,81,68
-Germany,2014,Developed,89,69
-Germany,2013,Developed,86,71
-Germany,2012,Developed,86,71
-Germany,2011,Developed,85,74
-Germany,2010,Developed,81,76
-Ghana,2015,Developing,62.4,249
-Ghana,2014,Developing,62.1,253
-Ghana,2013,Developing,61.9,254
-Ghana,2012,Developing,61.6,257
-Ghana,2011,Developing,61.2,263
-Ghana,2010,Developing,69,267
-Greece,2015,Developing,81,72
-Greece,2014,Developing,88,73
-Greece,2013,Developing,86,74
-Greece,2012,Developing,84,76
-Greece,2011,Developing,85,76
-Greece,2010,Developing,83,76
-Grenada,2015,Developing,73.6,142
-Grenada,2014,Developing,73.5,143
-Grenada,2013,Developing,73.3,144
-Grenada,2012,Developing,73.1,146
-Grenada,2011,Developing,72.9,15
-Grenada,2010,Developing,72.6,154
-Guatemala,2015,Developing,71.9,186
-Guatemala,2014,Developing,71.7,187
-Guatemala,2013,Developing,71.4,189
-Guatemala,2012,Developing,71.3,189
-Guatemala,2011,Developing,71.1,193
-Guatemala,2010,Developing,77,196
-Guinea,2015,Developing,59,284
-Guinea,2014,Developing,58.1,299
-Guinea,2013,Developing,58.8,284
-Guinea,2012,Developing,58.4,288
-Guinea,2011,Developing,58.1,29
-Guinea,2010,Developing,57.8,291
-Guinea-Bissau,2015,Developing,58.9,275
-Guinea-Bissau,2014,Developing,58.4,282
-Guinea-Bissau,2013,Developing,58.1,279
-Guinea-Bissau,2012,Developing,57.6,285
-Guinea-Bissau,2011,Developing,57.1,289
-Guinea-Bissau,2010,Developing,56.7,287
-Guyana,2015,Developing,66.2,215
-Guyana,2014,Developing,66,217
-Guyana,2013,Developing,65.9,218
-Guyana,2012,Developing,65.8,22
-Guyana,2011,Developing,65.6,229
-Guyana,2010,Developing,65.9,221
-Haiti,2015,Developing,63.5,24
-Haiti,2014,Developing,63.1,245
-Haiti,2013,Developing,62.7,253
-Haiti,2012,Developing,62.3,259
-Haiti,2011,Developing,62.3,259
-Haiti,2010,Developing,36.3,682
-Honduras,2015,Developing,74.6,147
-Honduras,2014,Developing,74.5,149
-Honduras,2013,Developing,74.3,15
-Honduras,2012,Developing,74.1,151
-Honduras,2011,Developing,73.9,153
-Honduras,2010,Developing,73.6,156
-Hungary,2015,Developed,75.8,134
-Hungary,2014,Developed,75.6,137
-Hungary,2013,Developed,75.5,139
-Hungary,2012,Developed,75,146
-Hungary,2011,Developed,74.8,15
-Hungary,2010,Developed,74.5,156
-Iceland,2015,Developed,82.7,49
-Iceland,2014,Developed,82.5,49
-Iceland,2013,Developed,82.4,5
-Iceland,2012,Developed,82.5,5
-Iceland,2011,Developed,82.1,51
-Iceland,2010,Developed,81.8,53
-India,2015,Developing,68.3,181
-India,2014,Developing,68,184
-India,2013,Developing,67.6,187
-India,2012,Developing,67.3,19
-India,2011,Developing,66.8,193
-India,2010,Developing,66.4,196
-Indonesia,2015,Developing,69.1,176
-Indonesia,2014,Developing,68.9,179
-Indonesia,2013,Developing,68.7,181
-Indonesia,2012,Developing,68.5,183
-Indonesia,2011,Developing,68.3,185
-Indonesia,2010,Developing,68.1,187
-Iran,2015,Developing,75.5,83
-Iran,2014,Developing,75.4,83
-Iran,2013,Developing,75.3,83
-Iran,2012,Developing,75.1,85
-Iran,2011,Developing,74.7,93
-Iran,2010,Developing,74.1,16
-Iraq,2015,Developing,68.9,182
-Iraq,2014,Developing,67.9,199
-Iraq,2013,Developing,69.5,17
-Iraq,2012,Developing,76,147
-Iraq,2011,Developing,77,144
-Iraq,2010,Developing,76,145
-Ireland,2015,Developed,81.4,64
-Ireland,2014,Developed,81.2,66
-Ireland,2013,Developed,81,67
-Ireland,2012,Developed,85,69
-Ireland,2011,Developed,84,7
-Ireland,2010,Developed,86,68
-Israel,2015,Developing,82.5,58
-Israel,2014,Developing,82.2,6
-Israel,2013,Developing,82.1,61
-Israel,2012,Developing,81.8,6
-Israel,2011,Developing,81.8,61
-Israel,2010,Developing,81.7,61
-Italy,2015,Developed,82.7,56
-Italy,2014,Developed,82.5,57
-Italy,2013,Developed,82.3,58
-Italy,2012,Developed,82,6
-Italy,2011,Developed,82,6
-Italy,2010,Developed,81.8,6
-Jamaica,2015,Developing,76.2,125
-Jamaica,2014,Developing,75.8,133
-Jamaica,2013,Developing,75.6,136
-Jamaica,2012,Developing,75.3,138
-Jamaica,2011,Developing,75.2,139
-Jamaica,2010,Developing,75,138
-Japan,2015,Developed,83.7,55
-Japan,2014,Developed,83.5,57
-Japan,2013,Developed,83.5,56
-Japan,2012,Developed,83.3,58
-Japan,2011,Developed,82.5,64
-Japan,2010,Developed,83,62
-Jordan,2015,Developing,74.1,112
-Jordan,2014,Developing,74,113
-Jordan,2013,Developing,73.9,114
-Jordan,2012,Developing,73.7,115
-Jordan,2011,Developing,73.6,116
-Jordan,2010,Developing,73.4,117
-Kazakhstan,2015,Developing,72,198
-Kazakhstan,2014,Developing,69.9,22
-Kazakhstan,2013,Developing,69.5,28
-Kazakhstan,2012,Developing,69.1,214
-Kazakhstan,2011,Developing,68.5,224
-Kazakhstan,2010,Developing,67.8,236
-Kenya,2015,Developing,63.4,249
-Kenya,2014,Developing,62.9,255
-Kenya,2013,Developing,62.6,258
-Kenya,2012,Developing,62.1,263
-Kenya,2011,Developing,61.2,278
-Kenya,2010,Developing,63,294
-Kiribati,2015,Developing,66.3,198
-Kiribati,2014,Developing,66.1,2
-Kiribati,2013,Developing,65.8,22
-Kiribati,2012,Developing,65.7,24
-Kiribati,2011,Developing,65.5,26
-Kiribati,2010,Developing,65.3,27
-Kuwait,2015,Developing,74.7,81
-Kuwait,2014,Developing,74.6,82
-Kuwait,2013,Developing,74.5,83
-Kuwait,2012,Developing,74.3,84
-Kuwait,2011,Developing,74.2,85
-Kuwait,2010,Developing,74,86
-Kyrgyzstan,2015,Developing,71.1,166
-Kyrgyzstan,2014,Developing,78,17
-Kyrgyzstan,2013,Developing,77,174
-Kyrgyzstan,2012,Developing,69.9,18
-Kyrgyzstan,2011,Developing,69.4,188
-Kyrgyzstan,2010,Developing,68.8,199
-Lao People's Democratic Republic,2015,Developing,65.7,194
-Lao People's Democratic Republic,2014,Developing,65.3,199
-Lao People's Democratic Republic,2013,Developing,64.9,23
-Lao People's Democratic Republic,2012,Developing,64.4,28
-Lao People's Democratic Republic,2011,Developing,64,213
-Lao People's Democratic Republic,2010,Developing,63.6,218
-Latvia,2015,Developed,74.6,153
-Latvia,2014,Developed,74.4,156
-Latvia,2013,Developed,74.1,161
-Latvia,2012,Developed,73.8,163
-Latvia,2011,Developed,73.6,169
-Latvia,2010,Developed,72.8,18
-Lebanon,2015,Developing,74.9,98
-Lebanon,2014,Developing,74.8,99
-Lebanon,2013,Developing,74.9,97
-Lebanon,2012,Developing,75,93
-Lebanon,2011,Developing,75,93
-Lebanon,2010,Developing,74.9,94
-Lesotho,2015,Developing,53.7,484
-Lesotho,2014,Developing,52.1,522
-Lesotho,2013,Developing,52.1,518
-Lesotho,2012,Developing,52.2,513
-Lesotho,2011,Developing,52.3,52
-Lesotho,2010,Developing,51.1,527
-Liberia,2015,Developing,61.4,259
-Liberia,2014,Developing,58.1,329
-Liberia,2013,Developing,61.1,258
-Liberia,2012,Developing,67,261
-Liberia,2011,Developing,62,266
-Liberia,2010,Developing,59.7,272
-Libya,2015,Developing,72.7,138
-Libya,2014,Developing,72.4,143
-Libya,2013,Developing,72.9,134
-Libya,2012,Developing,72.9,133
-Libya,2011,Developing,71.3,161
-Libya,2010,Developing,72.8,132
-Lithuania,2015,Developed,73.6,165
-Lithuania,2014,Developed,73.4,169
-Lithuania,2013,Developed,73,178
-Lithuania,2012,Developed,73,176
-Lithuania,2011,Developed,72.8,18
-Lithuania,2010,Developed,72.4,188
-Luxembourg,2015,Developed,82,63
-Luxembourg,2014,Developed,81.7,65
-Luxembourg,2013,Developed,81.4,68
-Luxembourg,2012,Developed,81.1,7
-Luxembourg,2011,Developed,88,72
-Luxembourg,2010,Developed,86,73
-Madagascar,2015,Developing,65.5,22
-Madagascar,2014,Developing,65.1,225
-Madagascar,2013,Developing,64.7,23
-Madagascar,2012,Developing,64.3,235
-Madagascar,2011,Developing,63.8,241
-Madagascar,2010,Developing,63.3,248
-Malawi,2015,Developing,58.3,365
-Malawi,2014,Developing,57.6,377
-Malawi,2013,Developing,56.7,394
-Malawi,2012,Developing,55.3,42
-Malawi,2011,Developing,54.1,441
-Malawi,2010,Developing,52.9,462
-Malaysia,2015,Developing,75,123
-Malaysia,2014,Developing,74.8,126
-Malaysia,2013,Developing,74.6,128
-Malaysia,2012,Developing,74.5,129
-Malaysia,2011,Developing,74.3,13
-Malaysia,2010,Developing,74.1,131
-Maldives,2015,Developing,78.5,61
-Maldives,2014,Developing,78.2,62
-Maldives,2013,Developing,77.9,64
-Maldives,2012,Developing,77.6,65
-Maldives,2011,Developing,77.3,67
-Maldives,2010,Developing,76.7,73
-Mali,2015,Developing,58.2,266
-Mali,2014,Developing,57.8,272
-Mali,2013,Developing,57.3,275
-Mali,2012,Developing,57.2,27
-Mali,2011,Developing,56.8,271
-Mali,2010,Developing,56.5,273
-Malta,2015,Developed,81.7,54
-Malta,2014,Developed,81.4,55
-Malta,2013,Developed,81.1,57
-Malta,2012,Developed,81,58
-Malta,2011,Developed,87,59
-Malta,2010,Developed,83,62
-Mauritania,2015,Developing,63.1,25
-Mauritania,2014,Developing,63,26
-Mauritania,2013,Developing,62.7,28
-Mauritania,2012,Developing,62.5,29
-Mauritania,2011,Developing,62.2,212
-Mauritania,2010,Developing,62,214
-Mauritius,2015,Developing,74.6,146
-Mauritius,2014,Developing,74.2,148
-Mauritius,2013,Developing,74.1,147
-Mauritius,2012,Developing,73.9,154
-Mauritius,2011,Developing,73.6,158
-Mauritius,2010,Developing,73.3,163
-Mexico,2015,Developing,76.7,122
-Mexico,2014,Developing,76.6,122
-Mexico,2013,Developing,76.6,12
-Mexico,2012,Developing,76.3,123
-Mexico,2011,Developing,76.1,124
-Mexico,2010,Developing,75.6,127
-Micronesia,2015,Developing,69.4,166
-Micronesia,2014,Developing,69.4,164
-Micronesia,2013,Developing,69.2,166
-Micronesia,2012,Developing,69,168
-Micronesia,2011,Developing,68.9,169
-Micronesia,2010,Developing,68.7,171
-Mongolia,2015,Developing,68.8,222
-Mongolia,2014,Developing,68.4,225
-Mongolia,2013,Developing,68.1,227
-Mongolia,2012,Developing,67.8,231
-Mongolia,2011,Developing,67.3,235
-Mongolia,2010,Developing,66.3,25
-Montenegro,2015,Developing,76.1,16
-Montenegro,2014,Developing,75.9,17
-Montenegro,2013,Developing,75.8,19
-Montenegro,2012,Developing,75.6,11
-Montenegro,2011,Developing,75.4,113
-Montenegro,2010,Developing,75.3,115
-Morocco,2015,Developing,74.3,95
-Morocco,2014,Developing,74.1,96
-Morocco,2013,Developing,73.9,97
-Morocco,2012,Developing,73.6,99
-Morocco,2011,Developing,73.3,14
-Morocco,2010,Developing,72.8,11
-Mozambique,2015,Developing,57.6,355
-Mozambique,2014,Developing,56.7,375
-Mozambique,2013,Developing,55.3,46
-Mozambique,2012,Developing,54.8,48
-Mozambique,2011,Developing,54.3,47
-Mozambique,2010,Developing,54,47
-Myanmar,2015,Developing,66.6,199
-Myanmar,2014,Developing,66.4,21
-Myanmar,2013,Developing,66.2,22
-Myanmar,2012,Developing,65.9,25
-Myanmar,2011,Developing,65.6,27
-Myanmar,2010,Developing,65.4,29
-Namibia,2015,Developing,65.8,248
-Namibia,2014,Developing,65.9,242
-Namibia,2013,Developing,66.1,232
-Namibia,2012,Developing,65.8,232
-Namibia,2011,Developing,64.3,268
-Namibia,2010,Developing,63,299
-Nepal,2015,Developing,69.2,165
-Nepal,2014,Developing,69.6,158
-Nepal,2013,Developing,69.3,162
-Nepal,2012,Developing,68.9,167
-Nepal,2011,Developing,68.4,172
-Nepal,2010,Developing,68,178
-Netherlands,2015,Developed,81.9,57
-Netherlands,2014,Developed,81.7,58
-Netherlands,2013,Developed,81.4,6
-Netherlands,2012,Developed,81.1,62
-Netherlands,2011,Developed,81.1,63
-Netherlands,2010,Developed,88,64
-New Zealand,2015,Developed,81.6,66
-New Zealand,2014,Developed,81.5,67
-New Zealand,2013,Developed,81.3,69
-New Zealand,2012,Developed,81.1,7
-New Zealand,2011,Developed,86,72
-New Zealand,2010,Developed,89,71
-Nicaragua,2015,Developing,74.8,145
-Nicaragua,2014,Developing,74.5,148
-Nicaragua,2013,Developing,73.9,157
-Nicaragua,2012,Developing,73.9,157
-Nicaragua,2011,Developing,74.5,147
-Nicaragua,2010,Developing,73.2,154
-Niger,2015,Developing,61.8,22
-Niger,2014,Developing,61.4,223
-Niger,2013,Developing,69,227
-Niger,2012,Developing,63,232
-Niger,2011,Developing,59.4,241
-Niger,2010,Developing,58.2,252
-Nigeria,2015,Developing,54.5,344
-Nigeria,2014,Developing,53.6,362
-Nigeria,2013,Developing,53.2,367
-Nigeria,2012,Developing,52.7,374
-Nigeria,2011,Developing,52.3,375
-Nigeria,2010,Developing,52,374
-Norway,2015,Developed,81.8,59
-Norway,2014,Developed,81.6,61
-Norway,2013,Developed,81.5,62
-Norway,2012,Developed,81.3,61
-Norway,2011,Developed,81.1,67
-Norway,2010,Developed,81,66
-Oman,2015,Developing,76.6,99
-Oman,2014,Developing,76.4,11
-Oman,2013,Developing,76.2,12
-Oman,2012,Developing,76,14
-Oman,2011,Developing,75.8,15
-Oman,2010,Developing,75.6,16
-Pakistan,2015,Developing,66.4,161
-Pakistan,2014,Developing,66.2,162
-Pakistan,2013,Developing,66,163
-Pakistan,2012,Developing,65.7,165
-Pakistan,2011,Developing,65.5,167
-Pakistan,2010,Developing,65.1,172
-Panama,2015,Developing,77.8,118
-Panama,2014,Developing,77.6,119
-Panama,2013,Developing,77.5,118
-Panama,2012,Developing,77.2,12
-Panama,2011,Developing,77.3,121
-Panama,2010,Developing,76.5,122
-Papua New Guinea,2015,Developing,62.9,275
-Papua New Guinea,2014,Developing,62.7,278
-Papua New Guinea,2013,Developing,62.4,281
-Papua New Guinea,2012,Developing,62.2,284
-Papua New Guinea,2011,Developing,62,285
-Papua New Guinea,2010,Developing,61.8,286
-Paraguay,2015,Developing,74,146
-Paraguay,2014,Developing,73.9,147
-Paraguay,2013,Developing,73.8,148
-Paraguay,2012,Developing,73.6,148
-Paraguay,2011,Developing,73.4,15
-Paraguay,2010,Developing,73.2,152
-Peru,2015,Developing,75.5,123
-Peru,2014,Developing,75.3,125
-Peru,2013,Developing,75.3,125
-Peru,2012,Developing,74.9,129
-Peru,2011,Developing,74.5,133
-Peru,2010,Developing,73.7,14
-Philippines,2015,Developing,68.5,211
-Philippines,2014,Developing,68.4,214
-Philippines,2013,Developing,68.1,219
-Philippines,2012,Developing,68.1,217
-Philippines,2011,Developing,68,218
-Philippines,2010,Developing,67.9,218
-Poland,2015,Developed,77.5,117
-Poland,2014,Developed,77.3,12
-Poland,2013,Developed,77.1,12
-Poland,2012,Developed,76.8,125
-Poland,2011,Developed,76.7,128
-Poland,2010,Developed,76.3,13
-Portugal,2015,Developed,81.1,76
-Portugal,2014,Developed,89,78
-Portugal,2013,Developed,86,79
-Portugal,2012,Developed,83,81
-Portugal,2011,Developed,82,85
-Portugal,2010,Developed,79.6,88
-Qatar,2015,Developing,78.2,68
-Qatar,2014,Developing,78.1,69
-Qatar,2013,Developing,77.9,7
-Qatar,2012,Developing,77.8,72
-Qatar,2011,Developing,77.5,74
-Qatar,2010,Developing,77.3,76
-Republic of Korea,2015,Developing,82.3,64
-Republic of Korea,2014,Developing,82,66
-Republic of Korea,2013,Developing,81.7,68
-Republic of Korea,2012,Developing,81.2,69
-Republic of Korea,2011,Developing,81.1,72
-Republic of Korea,2010,Developing,87,74
-Republic of Moldova,2015,Developing,72.1,157
-Republic of Moldova,2014,Developing,71.8,162
-Republic of Moldova,2013,Developing,71.7,163
-Republic of Moldova,2012,Developing,79,175
-Republic of Moldova,2011,Developing,77,177
-Republic of Moldova,2010,Developing,68.8,219
-Romania,2015,Developed,75,133
-Romania,2014,Developed,74.8,135
-Romania,2013,Developed,74.6,138
-Romania,2012,Developed,74.4,138
-Romania,2011,Developed,74.3,139
-Romania,2010,Developed,73.4,153
-Russian Federation,2015,Developing,75,222
-Russian Federation,2014,Developing,73,225
-Russian Federation,2013,Developing,70,229
-Russian Federation,2012,Developing,69.6,237
-Russian Federation,2011,Developing,69.4,242
-Russian Federation,2010,Developing,68.4,256
-Rwanda,2015,Developing,66.1,227
-Rwanda,2014,Developing,65.7,23
-Rwanda,2013,Developing,65.2,233
-Rwanda,2012,Developing,64.6,239
-Rwanda,2011,Developing,63.8,247
-Rwanda,2010,Developing,62.8,26
-Saint Lucia,2015,Developing,75.2,138
-Saint Lucia,2014,Developing,75,139
-Saint Lucia,2013,Developing,74.8,141
-Saint Lucia,2012,Developing,74.7,142
-Saint Lucia,2011,Developing,74.6,143
-Saint Lucia,2010,Developing,74.2,147
-Saint Vincent and the Grenadines,2015,Developing,73.2,156
-Saint Vincent and the Grenadines,2014,Developing,73.1,157
-Saint Vincent and the Grenadines,2013,Developing,72.7,161
-Saint Vincent and the Grenadines,2012,Developing,72.8,159
-Saint Vincent and the Grenadines,2011,Developing,72.7,16
-Saint Vincent and the Grenadines,2010,Developing,72.5,162
-Samoa,2015,Developing,74,125
-Samoa,2014,Developing,73.8,128
-Samoa,2013,Developing,73.6,131
-Samoa,2012,Developing,73.2,136
-Samoa,2011,Developing,73,139
-Samoa,2010,Developing,72.6,144
-Sao Tome and Principe,2015,Developing,67.5,19
-Sao Tome and Principe,2014,Developing,67.3,191
-Sao Tome and Principe,2013,Developing,67.1,192
-Sao Tome and Principe,2012,Developing,66.9,194
-Sao Tome and Principe,2011,Developing,66.6,198
-Sao Tome and Principe,2010,Developing,66.2,24
-Saudi Arabia,2015,Developing,74.5,88
-Saudi Arabia,2014,Developing,74.4,88
-Saudi Arabia,2013,Developing,74.3,89
-Saudi Arabia,2012,Developing,74.1,9
-Saudi Arabia,2011,Developing,73.9,92
-Saudi Arabia,2010,Developing,73.7,94
-Senegal,2015,Developing,66.7,188
-Senegal,2014,Developing,66.4,192
-Senegal,2013,Developing,66,196
-Senegal,2012,Developing,65.6,2
-Senegal,2011,Developing,64.9,26
-Senegal,2010,Developing,64.3,212
-Serbia,2015,Developing,75.6,121
-Serbia,2014,Developing,75.4,123
-Serbia,2013,Developing,75.3,122
-Serbia,2012,Developing,74.9,126
-Serbia,2011,Developing,74.6,127
-Serbia,2010,Developing,74.4,128
-Seychelles,2015,Developing,73.2,168
-Seychelles,2014,Developing,73,17
-Seychelles,2013,Developing,72.9,172
-Seychelles,2012,Developing,72.7,174
-Seychelles,2011,Developing,72.6,177
-Seychelles,2010,Developing,72.4,18
-Sierra Leone,2015,Developing,51,413
-Sierra Leone,2014,Developing,48.1,463
-Sierra Leone,2013,Developing,54,47
-Sierra Leone,2012,Developing,49.7,411
-Sierra Leone,2011,Developing,48.9,418
-Sierra Leone,2010,Developing,48.1,424
-Singapore,2015,Developed,83.1,55
-Singapore,2014,Developed,82.9,56
-Singapore,2013,Developed,82.7,57
-Singapore,2012,Developed,82.5,59
-Singapore,2011,Developed,82.2,6
-Singapore,2010,Developed,82,61
-Slovakia,2015,Developed,76.7,19
-Slovakia,2014,Developed,76.4,113
-Slovakia,2013,Developed,76.1,114
-Slovakia,2012,Developed,75.8,118
-Slovakia,2011,Developed,75.6,122
-Slovakia,2010,Developed,75.1,124
-Slovenia,2015,Developed,88,74
-Slovenia,2014,Developed,87,76
-Slovenia,2013,Developed,85,78
-Slovenia,2012,Developed,82,81
-Slovenia,2011,Developed,79.8,84
-Slovenia,2010,Developed,79.5,87
-Solomon Islands,2015,Developing,69.2,177
-Solomon Islands,2014,Developing,68.8,183
-Solomon Islands,2013,Developing,68.8,182
-Solomon Islands,2012,Developing,68.7,184
-Solomon Islands,2011,Developing,68.5,186
-Solomon Islands,2010,Developing,68.3,188
-Somalia,2015,Developing,55,312
-Somalia,2014,Developing,54.3,321
-Somalia,2013,Developing,54.2,318
-Somalia,2012,Developing,53.1,336
-Somalia,2011,Developing,53.1,329
-Somalia,2010,Developing,52.4,336
-South Africa,2015,Developing,62.9,328
-South Africa,2014,Developing,62,347
-South Africa,2013,Developing,69,371
-South Africa,2012,Developing,59.2,48
-South Africa,2011,Developing,58.9,413
-South Africa,2010,Developing,58,428
-S. Sudan,2015,Developing,57.3,332
-S. Sudan,2014,Developing,56.6,343
-S. Sudan,2013,Developing,56.4,345
-S. Sudan,2012,Developing,56,347
-S. Sudan,2011,Developing,55.4,355
-S. Sudan,2010,Developing,55,359
-Spain,2015,Developed,82.8,56
-Spain,2014,Developed,82.6,58
-Spain,2013,Developed,82.4,6
-Spain,2012,Developed,82,61
-Spain,2011,Developed,82.1,63
-Spain,2010,Developed,81.9,64
-Sri Lanka,2015,Developing,74.9,138
-Sri Lanka,2014,Developing,74.7,141
-Sri Lanka,2013,Developing,74.6,142
-Sri Lanka,2012,Developing,74.5,143
-Sri Lanka,2011,Developing,74.5,141
-Sri Lanka,2010,Developing,74.5,138
-Sudan,2015,Developing,64.1,225
-Sudan,2014,Developing,63.8,229
-Sudan,2013,Developing,63.5,232
-Sudan,2012,Developing,63.2,235
-Sudan,2011,Developing,62.7,241
-Sudan,2010,Developing,62.5,243
-Suriname,2015,Developing,71.6,176
-Suriname,2014,Developing,71.4,178
-Suriname,2013,Developing,71.2,179
-Suriname,2012,Developing,71.3,178
-Suriname,2011,Developing,76,187
-Suriname,2010,Developing,73,19
-Swaziland,2015,Developing,58.9,373
-Swaziland,2014,Developing,58.4,382
-Swaziland,2013,Developing,57.6,393
-Swaziland,2012,Developing,56.5,412
-Swaziland,2011,Developing,55,438
-Swaziland,2010,Developing,53.6,459
-Sweden,2015,Developed,82.4,53
-Sweden,2014,Developed,82.3,54
-Sweden,2013,Developed,81.9,57
-Sweden,2012,Developed,81.7,57
-Sweden,2011,Developed,81.7,58
-Sweden,2010,Developed,81.5,58
-Switzerland,2015,Developed,83.4,49
-Switzerland,2014,Developed,83.2,51
-Switzerland,2013,Developed,83,52
-Switzerland,2012,Developed,82.7,54
-Switzerland,2011,Developed,82.6,55
-Switzerland,2010,Developed,82.3,57
-Syrian Arab Republic,2015,Developing,64.5,293
-Syrian Arab Republic,2014,Developing,64.4,294
-Syrian Arab Republic,2013,Developing,63.6,37
-Syrian Arab Republic,2012,Developing,62.8,32
-Syrian Arab Republic,2011,Developing,71.7,163
-Syrian Arab Republic,2010,Developing,73.7,127
-Tajikistan,2015,Developing,69.7,161
-Tajikistan,2014,Developing,69.6,162
-Tajikistan,2013,Developing,69.3,163
-Tajikistan,2012,Developing,68.8,164
-Tajikistan,2011,Developing,68.1,166
-Tajikistan,2010,Developing,67.3,171
-Thailand,2015,Developing,74.9,148
-Thailand,2014,Developing,74.6,152
-Thailand,2013,Developing,74.5,153
-Thailand,2012,Developing,74.3,154
-Thailand,2011,Developing,74.1,155
-Thailand,2010,Developing,73.9,158
-The former Yugoslav republic of Macedonia,2015,Developing,75.7,12
-The former Yugoslav republic of Macedonia,2014,Developing,75.5,12
-The former Yugoslav republic of Macedonia,2013,Developing,75.3,14
-The former Yugoslav republic of Macedonia,2012,Developing,75.1,15
-The former Yugoslav republic of Macedonia,2011,Developing,74.9,17
-The former Yugoslav republic of Macedonia,2010,Developing,74.7,18
-Timor-Leste,2015,Developing,68.3,152
-Timor-Leste,2014,Developing,68,155
-Timor-Leste,2013,Developing,67.7,158
-Timor-Leste,2012,Developing,67.4,159
-Timor-Leste,2011,Developing,67.2,161
-Timor-Leste,2010,Developing,66.9,163
-Togo,2015,Developing,59.9,287
-Togo,2014,Developing,59.7,285
-Togo,2013,Developing,59.4,287
-Togo,2012,Developing,58.9,294
-Togo,2011,Developing,58.3,34
-Togo,2010,Developing,57.4,323
-Tonga,2015,Developing,73.5,133
-Tonga,2014,Developing,73.3,135
-Tonga,2013,Developing,73.2,137
-Tonga,2012,Developing,73,138
-Tonga,2011,Developing,72.9,14
-Tonga,2010,Developing,72.8,142
-Trinidad and Tobago,2015,Developing,71.2,17
-Trinidad and Tobago,2014,Developing,71.1,171
-Trinidad and Tobago,2013,Developing,71,172
-Trinidad and Tobago,2012,Developing,78,174
-Trinidad and Tobago,2011,Developing,76,176
-Trinidad and Tobago,2010,Developing,74,179
-Tunisia,2015,Developing,75.3,1
-Tunisia,2014,Developing,75.1,12
-Tunisia,2013,Developing,74.9,13
-Tunisia,2012,Developing,74.9,13
-Tunisia,2011,Developing,74.8,13
-Tunisia,2010,Developing,74.8,12
-Turkey,2015,Developing,75.8,16
-Turkey,2014,Developing,75.5,17
-Turkey,2013,Developing,75.2,19
-Turkey,2012,Developing,74.8,112
-Turkey,2011,Developing,74.5,114
-Turkey,2010,Developing,74.2,116
-Turkmenistan,2015,Developing,66.3,215
-Turkmenistan,2014,Developing,66,217
-Turkmenistan,2013,Developing,65.4,228
-Turkmenistan,2012,Developing,65.6,22
-Turkmenistan,2011,Developing,65.6,217
-Turkmenistan,2010,Developing,65.8,211
-Uganda,2015,Developing,62.3,291
-Uganda,2014,Developing,61.5,38
-Uganda,2013,Developing,67,325
-Uganda,2012,Developing,60,339
-Uganda,2011,Developing,59.3,347
-Uganda,2010,Developing,58.4,362
-Ukraine,2015,Developing,71.3,195
-Ukraine,2014,Developing,78,23
-Ukraine,2013,Developing,71,198
-Ukraine,2012,Developing,77,25
-Ukraine,2011,Developing,75,24
-Ukraine,2010,Developing,69.8,212
-United Arab Emirates,2015,Developing,77.1,75
-United Arab Emirates,2014,Developing,76.9,77
-United Arab Emirates,2013,Developing,76.7,78
-United Arab Emirates,2012,Developing,76.5,8
-United Arab Emirates,2011,Developing,76.3,81
-United Arab Emirates,2010,Developing,76.2,82
-United Kingdom,2015,Developed,81.2,69
-United Kingdom,2014,Developed,81,71
-United Kingdom,2013,Developed,87,72
-United Kingdom,2012,Developed,86,72
-United Kingdom,2011,Developed,86,74
-United Kingdom,2010,Developed,82,77
-Tanzania,2015,Developing,61.8,279
-Tanzania,2014,Developing,67,34
-Tanzania,2013,Developing,59.7,323
-Tanzania,2012,Developing,58.6,348
-Tanzania,2011,Developing,58.3,348
-Tanzania,2010,Developing,57.5,36
-United States of America,2015,Developed,79.3,13
-United States of America,2014,Developed,79.1,14
-United States of America,2013,Developed,78.9,16
-United States of America,2012,Developed,78.8,16
-United States of America,2011,Developed,78.7,16
-United States of America,2010,Developed,78.7,15
-Uruguay,2015,Developing,77,116
-Uruguay,2014,Developing,76.8,117
-Uruguay,2013,Developing,76.8,117
-Uruguay,2012,Developing,76.5,118
-Uruguay,2011,Developing,77,111
-Uruguay,2010,Developing,76.3,118
-Uzbekistan,2015,Developing,69.4,184
-Uzbekistan,2014,Developing,69.2,184
-Uzbekistan,2013,Developing,69.1,185
-Uzbekistan,2012,Developing,68.8,184
-Uzbekistan,2011,Developing,68.5,183
-Uzbekistan,2010,Developing,68.3,183
-Vanuatu,2015,Developing,72,13
-Vanuatu,2014,Developing,71.7,134
-Vanuatu,2013,Developing,71.6,135
-Vanuatu,2012,Developing,71.4,138
-Vanuatu,2011,Developing,71.2,141
-Vanuatu,2010,Developing,71,145
-Venezuela,2015,Developing,74.1,157
-Venezuela,2014,Developing,73.9,158
-Venezuela,2013,Developing,73.8,159
-Venezuela,2012,Developing,73.7,161
-Venezuela,2011,Developing,73.8,158
-Venezuela,2010,Developing,73.7,158
-Viet Nam,2015,Developing,76,127
-Viet Nam,2014,Developing,75.9,128
-Viet Nam,2013,Developing,75.7,129
-Viet Nam,2012,Developing,75.6,13
-Viet Nam,2011,Developing,75.4,131
-Viet Nam,2010,Developing,75.2,133
-Yemen,2015,Developing,65.7,224
-Yemen,2014,Developing,65.4,228
-Yemen,2013,Developing,65.4,226
-Yemen,2012,Developing,64.7,236
-Yemen,2011,Developing,64.6,234
-Yemen,2010,Developing,64.4,233
-Zambia,2015,Developing,61.8,33
-Zambia,2014,Developing,61.1,314
-Zambia,2013,Developing,63,328
-Zambia,2012,Developing,59.2,349
-Zambia,2011,Developing,58.2,366
-Zambia,2010,Developing,58,363
-Zimbabwe,2015,Developing,67,336
-Zimbabwe,2014,Developing,59.2,371
-Zimbabwe,2013,Developing,58,399
-Zimbabwe,2012,Developing,56.6,429
-Zimbabwe,2011,Developing,54.9,464
-Zimbabwe,2010,Developing,52.4,527
+Country,Continent,Year,Status,Life Expectancy,Adult Mortality,Population
+Afghanistan,Asia,2015,Developing,65,263,33736494
+Afghanistan,Asia,2014,Developing,59.9,271,327582
+Afghanistan,Asia,2013,Developing,59.9,268,31731688
+Afghanistan,Asia,2012,Developing,59.5,272,3696958
+Afghanistan,Asia,2011,Developing,59.2,275,2978599
+Afghanistan,Asia,2010,Developing,58.8,279,2883167
+Albania,Europe,2015,Developing,77.8,74,28873
+Albania,Europe,2014,Developing,77.5,8,288914
+Albania,Europe,2013,Developing,77.2,84,289592
+Albania,Europe,2012,Developing,76.9,86,2941
+Albania,Europe,2011,Developing,76.6,88,295195
+Albania,Europe,2010,Developing,76.2,91,291321
+Algeria,Africa,2015,Developing,75.6,19,39871528
+Algeria,Africa,2014,Developing,75.4,11,39113313
+Algeria,Africa,2013,Developing,75.3,112,38338562
+Algeria,Africa,2012,Developing,75.1,113,37565847
+Algeria,Africa,2011,Developing,74.9,116,36819558
+Algeria,Africa,2010,Developing,74.7,119,36117637
+Angola,Africa,2015,Developing,52.4,335,2785935
+Angola,Africa,2014,Developing,51.7,348,2692466
+Angola,Africa,2013,Developing,51.1,355,2599834
+Angola,Africa,2012,Developing,56,358,259615
+Angola,Africa,2011,Developing,51,361,24218565
+Angola,Africa,2010,Developing,49.6,365,23369131
+Antigua and Barbuda,North America,2015,Developing,76.4,13,
+Antigua and Barbuda,North America,2014,Developing,76.2,131,
+Antigua and Barbuda,North America,2013,Developing,76.1,133,
+Antigua and Barbuda,North America,2012,Developing,75.9,134,
+Antigua and Barbuda,North America,2011,Developing,75.7,136,
+Antigua and Barbuda,North America,2010,Developing,75.6,138,
+Argentina,South America,2015,Developing,76.3,116,43417765
+Argentina,South America,2014,Developing,76.2,118,42981515
+Argentina,South America,2013,Developing,76,119,42539925
+Argentina,South America,2012,Developing,75.9,12,4296739
+Argentina,South America,2011,Developing,75.7,12,41656879
+Argentina,South America,2010,Developing,75.5,121,41223889
+Armenia,Asia,2015,Developing,74.8,118,291695
+Armenia,Asia,2014,Developing,74.6,12,29622
+Armenia,Asia,2013,Developing,74.4,123,289359
+Armenia,Asia,2012,Developing,74.4,121,2881922
+Armenia,Asia,2011,Developing,73.9,128,2875581
+Armenia,Asia,2010,Developing,73.5,132,2877311
+Australia,Oceania,2015,Developed,82.8,59,23789338
+Australia,Oceania,2014,Developed,82.7,6,2346694
+Australia,Oceania,2013,Developed,82.5,61,23117353
+Australia,Oceania,2012,Developed,82.3,61,22728254
+Australia,Oceania,2011,Developed,82,63,223424
+Australia,Oceania,2010,Developed,81.9,64,223175
+Austria,Europe,2015,Developed,81.5,65,8633169
+Austria,Europe,2014,Developed,81.4,66,8541575
+Austria,Europe,2013,Developed,81.1,68,8479375
+Austria,Europe,2012,Developed,88,7,8429991
+Austria,Europe,2011,Developed,88,73,8391643
+Austria,Europe,2010,Developed,84,75,836344
+Azerbaijan,Asia,2015,Developing,72.7,118,9649341
+Azerbaijan,Asia,2014,Developing,72.5,119,953579
+Azerbaijan,Asia,2013,Developing,72.2,121,941681
+Azerbaijan,Asia,2012,Developing,71.9,123,9295784
+Azerbaijan,Asia,2011,Developing,71.6,125,917382
+Azerbaijan,Asia,2010,Developing,71.1,13,954332
+Bahamas,North America,2015,Developing,76.1,147,
+Bahamas,North America,2014,Developing,75.4,16,
+Bahamas,North America,2013,Developing,74.8,172,
+Bahamas,North America,2012,Developing,74.9,167,
+Bahamas,North America,2011,Developing,75,162,
+Bahamas,North America,2010,Developing,75,161,
+Bahrain,Asia,2015,Developing,76.9,69,
+Bahrain,Asia,2014,Developing,76.8,7,
+Bahrain,Asia,2013,Developing,76.7,7,
+Bahrain,Asia,2012,Developing,76.5,71,
+Bahrain,Asia,2011,Developing,76.1,76,
+Bahrain,Asia,2010,Developing,76.1,73,
+Bangladesh,Asia,2015,Developing,71.8,129,1612886
+Bangladesh,Asia,2014,Developing,71.4,132,15945279
+Bangladesh,Asia,2013,Developing,71,135,157571292
+Bangladesh,Asia,2012,Developing,77,137,15572753
+Bangladesh,Asia,2011,Developing,73,14,153911916
+Bangladesh,Asia,2010,Developing,69.9,142,15214912
+Barbados,North America,2015,Developing,75.5,98,
+Barbados,North America,2014,Developing,75.4,1,
+Barbados,North America,2013,Developing,75.2,11,
+Barbados,North America,2012,Developing,75.1,12,
+Barbados,North America,2011,Developing,74.9,14,
+Barbados,North America,2010,Developing,74.7,16,
+Belarus,Europe,2015,Developing,72.3,196,9489616
+Belarus,Europe,2014,Developing,72,199,9474511
+Belarus,Europe,2013,Developing,71.7,23,9465997
+Belarus,Europe,2012,Developing,71.9,194,9464495
+Belarus,Europe,2011,Developing,72,232,9473172
+Belarus,Europe,2010,Developing,73,222,949583
+Belgium,Europe,2015,Developed,81.1,74,11274196
+Belgium,Europe,2014,Developed,89,76,112957
+Belgium,Europe,2013,Developed,87,77,11182817
+Belgium,Europe,2012,Developed,83,78,11128246
+Belgium,Europe,2011,Developed,83,8,1147744
+Belgium,Europe,2010,Developed,80,81,1895586
+Belize,North America,2015,Developing,71,175,359288
+Belize,North America,2014,Developing,70,177,351694
+Belize,North America,2013,Developing,69.8,18,344181
+Belize,North America,2012,Developing,69.4,189,33671
+Belize,North America,2011,Developing,69.4,188,329192
+Belize,North America,2010,Developing,69.5,186,32168
+Benin,Africa,2015,Developing,60,249,1575952
+Benin,Africa,2014,Developing,59.7,252,1286712
+Benin,Africa,2013,Developing,59.5,251,14451
+Benin,Africa,2012,Developing,59.3,251,972916
+Benin,Africa,2011,Developing,59.1,251,94682
+Benin,Africa,2010,Developing,58.7,254,9199259
+Bhutan,Asia,2015,Developing,69.8,211,787386
+Bhutan,Asia,2014,Developing,69.4,216,776448
+Bhutan,Asia,2013,Developing,69.1,219,764961
+Bhutan,Asia,2012,Developing,68.7,223,752967
+Bhutan,Asia,2011,Developing,68.3,225,7451
+Bhutan,Asia,2010,Developing,67.9,228,727641
+Bolivia,South America,2015,Developing,77,186,
+Bolivia,South America,2014,Developing,74,189,
+Bolivia,South America,2013,Developing,71,192,
+Bolivia,South America,2012,Developing,69.8,194,
+Bolivia,South America,2011,Developing,69.3,198,
+Bolivia,South America,2010,Developing,68.7,22,
+Bosnia and Herzegovina,Europe,2015,Developing,77.4,88,3535961
+Bosnia and Herzegovina,Europe,2014,Developing,77.2,89,35662
+Bosnia and Herzegovina,Europe,2013,Developing,77,9,364999
+Bosnia and Herzegovina,Europe,2012,Developing,76.8,92,36482
+Bosnia and Herzegovina,Europe,2011,Developing,76.9,92,3688865
+Bosnia and Herzegovina,Europe,2010,Developing,76.4,94,372284
+Botswana,Africa,2015,Developing,65.7,256,229197
+Botswana,Africa,2014,Developing,65.1,268,2168573
+Botswana,Africa,2013,Developing,64.2,286,212857
+Botswana,Africa,2012,Developing,63.4,3,289315
+Botswana,Africa,2011,Developing,62.2,325,251339
+Botswana,Africa,2010,Developing,61.1,349,214866
+Brazil,South America,2015,Developing,75,142,2596218
+Brazil,South America,2014,Developing,74.8,144,24213133
+Brazil,South America,2013,Developing,74.7,146,2248632
+Brazil,South America,2012,Developing,74.5,148,256983
+Brazil,South America,2011,Developing,74.1,152,198686688
+Brazil,South America,2010,Developing,73.8,154,196796269
+Brunei Darussalam,Asia,2015,Developing,77.7,78,
+Brunei Darussalam,Asia,2014,Developing,77.6,8,
+Brunei Darussalam,Asia,2013,Developing,77.1,84,
+Brunei Darussalam,Asia,2012,Developing,78.3,79,
+Brunei Darussalam,Asia,2011,Developing,77.4,79,
+Brunei Darussalam,Asia,2010,Developing,76.9,79,
+Bulgaria,Europe,2015,Developed,74.5,137,7177991
+Bulgaria,Europe,2014,Developed,74.3,138,7223938
+Bulgaria,Europe,2013,Developed,74.1,14,7265115
+Bulgaria,Europe,2012,Developed,73.9,139,735888
+Bulgaria,Europe,2011,Developed,73.7,144,7348328
+Bulgaria,Europe,2010,Developed,73.4,147,7395599
+Burkina Faso,Africa,2015,Developing,59.9,26,1811624
+Burkina Faso,Africa,2014,Developing,59.3,268,17585977
+Burkina Faso,Africa,2013,Developing,59,27,1772723
+Burkina Faso,Africa,2012,Developing,58.6,271,16571216
+Burkina Faso,Africa,2011,Developing,58.1,275,168194
+Burkina Faso,Africa,2010,Developing,57.5,279,1565217
+Burundi,Africa,2015,Developing,59.6,288,119927
+Burundi,Africa,2014,Developing,59.1,297,989179
+Burundi,Africa,2013,Developing,58.6,33,96186
+Burundi,Africa,2012,Developing,58,312,931971
+Burundi,Africa,2011,Developing,57.4,321,94358
+Burundi,Africa,2010,Developing,56.8,33,876693
+Côte d'Ivoire,Africa,2015,Developing,53.3,397,
+Côte d'Ivoire,Africa,2014,Developing,52.8,47,
+Côte d'Ivoire,Africa,2013,Developing,52.3,412,
+Côte d'Ivoire,Africa,2012,Developing,52,415,
+Côte d'Ivoire,Africa,2011,Developing,51.7,419,
+Côte d'Ivoire,Africa,2010,Developing,51.5,417,
+Cabo Verde,Africa,2015,Developing,73.3,114,532913
+Cabo Verde,Africa,2014,Developing,73,117,526437
+Cabo Verde,Africa,2013,Developing,72.8,12,5216
+Cabo Verde,Africa,2012,Developing,72.7,121,513979
+Cabo Verde,Africa,2011,Developing,72.6,122,5867
+Cabo Verde,Africa,2010,Developing,72.5,123,52384
+Cambodia,Asia,2015,Developing,68.7,174,15517635
+Cambodia,Asia,2014,Developing,68.3,179,152779
+Cambodia,Asia,2013,Developing,67.8,183,1522692
+Cambodia,Asia,2012,Developing,67.4,186,14776866
+Cambodia,Asia,2011,Developing,67,19,14537886
+Cambodia,Asia,2010,Developing,66.6,192,143874
+Cameroon,Africa,2015,Developing,57.3,357,22834522
+Cameroon,Africa,2014,Developing,56.7,366,2223994
+Cameroon,Africa,2013,Developing,56.4,364,21655715
+Cameroon,Africa,2012,Developing,55.9,369,2182383
+Cameroon,Africa,2011,Developing,55.6,371,252447
+Cameroon,Africa,2010,Developing,55.3,37,1997495
+Canada,North America,2015,Developing,82.2,64,3584861
+Canada,North America,2014,Developing,82,65,35544564
+Canada,North America,2013,Developing,81.8,67,35155451
+Canada,North America,2012,Developing,81.6,68,3475545
+Canada,North America,2011,Developing,81.5,68,3434278
+Canada,North America,2010,Developing,81.2,7,345274
+Central African Rep.,Africa,2015,Developing,52.5,397,45461
+Central African Rep.,Africa,2014,Developing,58,437,4515392
+Central African Rep.,Africa,2013,Developing,49.9,451,4499653
+Central African Rep.,Africa,2012,Developing,53,439,449416
+Central African Rep.,Africa,2011,Developing,49.8,443,4476153
+Central African Rep.,Africa,2010,Developing,49.2,446,4448525
+Chad,Africa,2015,Developing,53.1,356,149413
+Chad,Africa,2014,Developing,52.6,362,13569438
+Chad,Africa,2013,Developing,52.2,366,13133589
+Chad,Africa,2012,Developing,51.8,367,1275135
+Chad,Africa,2011,Developing,51.6,365,12288651
+Chad,Africa,2010,Developing,51.2,364,1188722
+Chile,South America,2015,Developing,85,82,17762681
+Chile,South America,2014,Developing,83,83,17613798
+Chile,South America,2013,Developing,81,84,17462982
+Chile,South America,2012,Developing,79.9,84,1739746
+Chile,South America,2011,Developing,79.8,86,17153357
+Chile,South America,2010,Developing,79.1,89,16993354
+China,Asia,2015,Developing,76.1,85,137122
+China,Asia,2014,Developing,75.8,86,136427
+China,Asia,2013,Developing,75.6,88,135738
+China,Asia,2012,Developing,75.4,89,135695
+China,Asia,2011,Developing,75.2,91,134413
+China,Asia,2010,Developing,75,92,133775
+Colombia,South America,2015,Developing,74.8,143,48228697
+Colombia,South America,2014,Developing,74.6,144,47791911
+Colombia,South America,2013,Developing,74.4,145,47342981
+Colombia,South America,2012,Developing,74.3,143,46881475
+Colombia,South America,2011,Developing,74.2,144,4646646
+Colombia,South America,2010,Developing,73.6,15,4591897
+Comoros,Africa,2015,Developing,63.5,227,777424
+Comoros,Africa,2014,Developing,63.2,23,759385
+Comoros,Africa,2013,Developing,62.9,233,7415
+Comoros,Africa,2012,Developing,62.5,237,723868
+Comoros,Africa,2011,Developing,62.2,241,76569
+Comoros,Africa,2010,Developing,61.8,246,689692
+Congo,Africa,2015,Developing,64.7,267,
+Congo,Africa,2014,Developing,64.2,275,
+Congo,Africa,2013,Developing,63.9,274,
+Congo,Africa,2012,Developing,63.7,273,
+Congo,Africa,2011,Developing,62.9,285,
+Congo,Africa,2010,Developing,62,298,
+Costa Rica,North America,2015,Developing,79.6,95,487852
+Costa Rica,North America,2014,Developing,79.5,96,4757575
+Costa Rica,North America,2013,Developing,79.4,96,47641
+Costa Rica,North America,2012,Developing,79.2,97,4654122
+Costa Rica,North America,2011,Developing,79,98,46474
+Costa Rica,North America,2010,Developing,78.1,16,454528
+Croatia,Europe,2015,Developed,78,95,42364
+Croatia,Europe,2014,Developed,77.8,97,4238389
+Croatia,Europe,2013,Developed,77.7,97,4255689
+Croatia,Europe,2012,Developed,77.1,14,4267558
+Croatia,Europe,2011,Developed,77,14,428622
+Croatia,Europe,2010,Developed,76.6,16,4417781
+Cuba,North America,2015,Developing,79.1,92,
+Cuba,North America,2014,Developing,79,93,
+Cuba,North America,2013,Developing,78.7,96,
+Cuba,North America,2012,Developing,78.7,96,
+Cuba,North America,2011,Developing,78.8,92,
+Cuba,North America,2010,Developing,78,98,
+Cyprus,Europe,2015,Developed,85,52,116985
+Cyprus,Europe,2014,Developed,83,53,115239
+Cyprus,Europe,2013,Developed,81,54,1143896
+Cyprus,Europe,2012,Developed,80,56,113562
+Cyprus,Europe,2011,Developed,79.7,57,1124835
+Cyprus,Europe,2010,Developed,79.5,59,111267
+Czechia,Europe,2015,Developed,78.8,86,
+Czechia,Europe,2014,Developed,78.6,88,
+Czechia,Europe,2013,Developed,78.2,9,
+Czechia,Europe,2012,Developed,78,93,
+Czechia,Europe,2011,Developed,77.8,97,
+Czechia,Europe,2010,Developed,77.5,99,
+North Korea,Asia,2015,Developing,76,139,
+North Korea,Asia,2014,Developing,73,142,
+North Korea,Asia,2013,Developing,71,146,
+North Korea,Asia,2012,Developing,69.8,149,
+North Korea,Asia,2011,Developing,69.4,153,
+North Korea,Asia,2010,Developing,69,157,
+Dem. Rep. Congo,Africa,2015,Developing,59.8,258,
+Dem. Rep. Congo,Africa,2014,Developing,59.3,266,
+Dem. Rep. Congo,Africa,2013,Developing,58.8,272,
+Dem. Rep. Congo,Africa,2012,Developing,58.3,277,
+Dem. Rep. Congo,Africa,2011,Developing,57.9,278,
+Dem. Rep. Congo,Africa,2010,Developing,57.4,283,
+Denmark,Europe,2015,Developed,86,71,5683483
+Denmark,Europe,2014,Developed,84,73,5643475
+Denmark,Europe,2013,Developed,81,75,5614932
+Denmark,Europe,2012,Developed,80,76,5591572
+Denmark,Europe,2011,Developed,79.7,79,557572
+Denmark,Europe,2010,Developed,79.2,84,5547683
+Djibouti,Africa,2015,Developing,63.5,241,927414
+Djibouti,Africa,2014,Developing,63,252,912164
+Djibouti,Africa,2013,Developing,62.7,256,896688
+Djibouti,Africa,2012,Developing,62.2,263,881185
+Djibouti,Africa,2011,Developing,61.8,268,865937
+Djibouti,Africa,2010,Developing,61.3,273,851146
+Dominican Rep.,North America,2015,Developing,73.9,152,1528394
+Dominican Rep.,North America,2014,Developing,73.6,154,145844
+Dominican Rep.,North America,2013,Developing,73.4,157,1281296
+Dominican Rep.,North America,2012,Developing,72.1,174,115495
+Dominican Rep.,North America,2011,Developing,73.1,16,12795
+Dominican Rep.,North America,2010,Developing,72.7,166,9897985
+Ecuador,South America,2015,Developing,76.2,118,16144368
+Ecuador,South America,2014,Developing,76,121,1593112
+Ecuador,South America,2013,Developing,76,121,15661547
+Ecuador,South America,2012,Developing,75.5,127,15419666
+Ecuador,South America,2011,Developing,75.3,131,15177355
+Ecuador,South America,2010,Developing,75,134,1493469
+Egypt,Africa,2015,Developing,79,159,
+Egypt,Africa,2014,Developing,78,161,
+Egypt,Africa,2013,Developing,79,159,
+Egypt,Africa,2012,Developing,72,165,
+Egypt,Africa,2011,Developing,74,168,
+Egypt,Africa,2010,Developing,70,173,
+El Salvador,North America,2015,Developing,73.5,178,6312478
+El Salvador,North America,2014,Developing,73.3,181,6281189
+El Salvador,North America,2013,Developing,73,184,625777
+El Salvador,North America,2012,Developing,73,181,6221246
+El Salvador,North America,2011,Developing,72,197,619256
+El Salvador,North America,2010,Developing,72,191,6164626
+Equatorial Guinea,Africa,2015,Developing,58.2,32,1175389
+Equatorial Guinea,Africa,2014,Developing,57.9,32,1129424
+Equatorial Guinea,Africa,2013,Developing,57.4,327,183746
+Equatorial Guinea,Africa,2012,Developing,56.7,337,138593
+Equatorial Guinea,Africa,2011,Developing,56.2,344,99429
+Equatorial Guinea,Africa,2010,Developing,56.1,339,95114
+Eritrea,Africa,2015,Developing,64.7,255,
+Eritrea,Africa,2014,Developing,64.4,261,
+Eritrea,Africa,2013,Developing,64,266,
+Eritrea,Africa,2012,Developing,63.6,274,
+Eritrea,Africa,2011,Developing,62.9,286,447469
+Eritrea,Africa,2010,Developing,62.1,298,43984
+Estonia,Europe,2015,Developing,77.6,119,131547
+Estonia,Europe,2014,Developing,77.3,122,1314545
+Estonia,Europe,2013,Developing,76.9,127,1317997
+Estonia,Europe,2012,Developing,76.3,135,1322696
+Estonia,Europe,2011,Developing,76.1,138,1327439
+Estonia,Europe,2010,Developing,75.6,137,1331475
+Ethiopia,Africa,2015,Developing,64.8,225,9987333
+Ethiopia,Africa,2014,Developing,64.2,234,97366774
+Ethiopia,Africa,2013,Developing,63.7,237,94887724
+Ethiopia,Africa,2012,Developing,63.3,241,92444183
+Ethiopia,Africa,2011,Developing,62.6,249,946756
+Ethiopia,Africa,2010,Developing,61.8,261,877267
+Fiji,Oceania,2015,Developing,69.9,188,892149
+Fiji,Oceania,2014,Developing,69.7,19,88586
+Fiji,Oceania,2013,Developing,69.6,192,879715
+Fiji,Oceania,2012,Developing,69.4,195,873596
+Fiji,Oceania,2011,Developing,69.2,197,86786
+Fiji,Oceania,2010,Developing,69.1,2,85995
+Finland,Europe,2015,Developing,81.1,76,5479531
+Finland,Europe,2014,Developing,89,78,5461512
+Finland,Europe,2013,Developing,87,79,5438972
+Finland,Europe,2012,Developing,84,82,5413971
+Finland,Europe,2011,Developing,83,86,5388272
+Finland,Europe,2010,Developing,79.9,89,5363352
+France,Europe,2015,Developing,82.4,78,6662468
+France,Europe,2014,Developing,82.2,79,66331957
+France,Europe,2013,Developing,82,81,6599857
+France,Europe,2012,Developing,81.5,83,6565979
+France,Europe,2011,Developing,81.7,83,65342776
+France,Europe,2010,Developing,81.3,86,6527512
+Gabon,Africa,2015,Developing,66,229,193175
+Gabon,Africa,2014,Developing,65.5,237,1875713
+Gabon,Africa,2013,Developing,64.6,255,1817271
+Gabon,Africa,2012,Developing,63.5,276,1756817
+Gabon,Africa,2011,Developing,62.8,289,169711
+Gabon,Africa,2010,Developing,62.3,294,16421
+Gambia,Africa,2015,Developing,61.1,262,
+Gambia,Africa,2014,Developing,68,266,
+Gambia,Africa,2013,Developing,66,266,
+Gambia,Africa,2012,Developing,62,269,
+Gambia,Africa,2011,Developing,59.8,277,
+Gambia,Africa,2010,Developing,59.3,284,
+Georgia,Europe,2015,Developing,74.4,129,37171
+Georgia,Europe,2014,Developing,74.5,125,3727
+Georgia,Europe,2013,Developing,74.5,128,3776
+Georgia,Europe,2012,Developing,74.2,13,3825
+Georgia,Europe,2011,Developing,73.9,127,3875
+Georgia,Europe,2010,Developing,73.8,132,3926
+Germany,Europe,2015,Developed,81,68,81686611
+Germany,Europe,2014,Developed,89,69,89825
+Germany,Europe,2013,Developed,86,71,864565
+Germany,Europe,2012,Developed,86,71,8425823
+Germany,Europe,2011,Developed,85,74,8274983
+Germany,Europe,2010,Developed,81,76,8177693
+Ghana,Africa,2015,Developing,62.4,249,27582821
+Ghana,Africa,2014,Developing,62.1,253,26962563
+Ghana,Africa,2013,Developing,61.9,254,26346251
+Ghana,Africa,2012,Developing,61.6,257,2573349
+Ghana,Africa,2011,Developing,61.2,263,25121796
+Ghana,Africa,2010,Developing,69,267,2451214
+Greece,Europe,2015,Developing,81,72,182883
+Greece,Europe,2014,Developing,88,73,1892413
+Greece,Europe,2013,Developing,86,74,1965211
+Greece,Europe,2012,Developing,84,76,114511
+Greece,Europe,2011,Developing,85,76,1114899
+Greece,Europe,2010,Developing,83,76,11121341
+Grenada,North America,2015,Developing,73.6,142,
+Grenada,North America,2014,Developing,73.5,143,
+Grenada,North America,2013,Developing,73.3,144,
+Grenada,North America,2012,Developing,73.1,146,
+Grenada,North America,2011,Developing,72.9,15,
+Grenada,North America,2010,Developing,72.6,154,
+Guatemala,North America,2015,Developing,71.9,186,16252429
+Guatemala,North America,2014,Developing,71.7,187,15923559
+Guatemala,North America,2013,Developing,71.4,189,15596214
+Guatemala,North America,2012,Developing,71.3,189,1527156
+Guatemala,North America,2011,Developing,71.1,193,14948919
+Guatemala,North America,2010,Developing,77,196,1463417
+Guinea,Africa,2015,Developing,59,284,1291533
+Guinea,Africa,2014,Developing,58.1,299,118559
+Guinea,Africa,2013,Developing,58.8,284,11536615
+Guinea,Africa,2012,Developing,58.4,288,11281469
+Guinea,Africa,2011,Developing,58.1,29,113517
+Guinea,Africa,2010,Developing,57.8,291,179417
+Guinea-Bissau,Africa,2015,Developing,58.9,275,177526
+Guinea-Bissau,Africa,2014,Developing,58.4,282,1725744
+Guinea-Bissau,Africa,2013,Developing,58.1,279,1681495
+Guinea-Bissau,Africa,2012,Developing,57.6,285,1638139
+Guinea-Bissau,Africa,2011,Developing,57.1,289,1596154
+Guinea-Bissau,Africa,2010,Developing,56.7,287,155588
+Guyana,South America,2015,Developing,66.2,215,768514
+Guyana,South America,2014,Developing,66,217,763393
+Guyana,South America,2013,Developing,65.9,218,75881
+Guyana,South America,2012,Developing,65.8,22,75391
+Guyana,South America,2011,Developing,65.6,229,7491
+Guyana,South America,2010,Developing,65.9,221,746556
+Haiti,North America,2015,Developing,63.5,24,171161
+Haiti,North America,2014,Developing,63.1,245,1572466
+Haiti,North America,2013,Developing,62.7,253,1431776
+Haiti,North America,2012,Developing,62.3,259,128921
+Haiti,North America,2011,Developing,62.3,259,114554
+Haiti,North America,2010,Developing,36.3,682,9999617
+Honduras,North America,2015,Developing,74.6,147,896829
+Honduras,North America,2014,Developing,74.5,149,889216
+Honduras,North America,2013,Developing,74.3,15,8657785
+Honduras,North America,2012,Developing,74.1,151,855646
+Honduras,North America,2011,Developing,73.9,153,83516
+Honduras,North America,2010,Developing,73.6,156,8194778
+Hungary,Europe,2015,Developed,75.8,134,984328
+Hungary,Europe,2014,Developed,75.6,137,9866468
+Hungary,Europe,2013,Developed,75.5,139,989382
+Hungary,Europe,2012,Developed,75,146,992362
+Hungary,Europe,2011,Developed,74.8,15,9971727
+Hungary,Europe,2010,Developed,74.5,156,123
+Iceland,Europe,2015,Developed,82.7,49,33815
+Iceland,Europe,2014,Developed,82.5,49,327386
+Iceland,Europe,2013,Developed,82.4,5,323764
+Iceland,Europe,2012,Developed,82.5,5,32716
+Iceland,Europe,2011,Developed,82.1,51,31914
+Iceland,Europe,2010,Developed,81.8,53,31841
+India,Asia,2015,Developing,68.3,181,1395398
+India,Asia,2014,Developing,68,184,1293859294
+India,Asia,2013,Developing,67.6,187,127856227
+India,Asia,2012,Developing,67.3,19,126365852
+India,Asia,2011,Developing,66.8,193,124723629
+India,Asia,2010,Developing,66.4,196,12398691
+Indonesia,Asia,2015,Developing,69.1,176,258162113
+Indonesia,Asia,2014,Developing,68.9,179,255131116
+Indonesia,Asia,2013,Developing,68.7,181,25232263
+Indonesia,Asia,2012,Developing,68.5,183,248883232
+Indonesia,Asia,2011,Developing,68.3,185,24577511
+Indonesia,Asia,2010,Developing,68.1,187,242524123
+Iran,Asia,2015,Developing,75.5,83,
+Iran,Asia,2014,Developing,75.4,83,
+Iran,Asia,2013,Developing,75.3,83,
+Iran,Asia,2012,Developing,75.1,85,
+Iran,Asia,2011,Developing,74.7,93,
+Iran,Asia,2010,Developing,74.1,16,
+Iraq,Asia,2015,Developing,68.9,182,36115649
+Iraq,Asia,2014,Developing,67.9,199,3568
+Iraq,Asia,2013,Developing,69.5,17,33883145
+Iraq,Asia,2012,Developing,76,147,32776571
+Iraq,Asia,2011,Developing,77,144,3172753
+Iraq,Asia,2010,Developing,76,145,376271
+Ireland,Europe,2015,Developed,81.4,64,4676835
+Ireland,Europe,2014,Developed,81.2,66,4617225
+Ireland,Europe,2013,Developed,81,67,4598294
+Ireland,Europe,2012,Developed,85,69,4586897
+Ireland,Europe,2011,Developed,84,7,4576794
+Ireland,Europe,2010,Developed,86,68,456155
+Israel,Asia,2015,Developing,82.5,58,8381
+Israel,Asia,2014,Developing,82.2,6,82157
+Israel,Asia,2013,Developing,82.1,61,8595
+Israel,Asia,2012,Developing,81.8,6,7915
+Israel,Asia,2011,Developing,81.8,61,77658
+Israel,Asia,2010,Developing,81.7,61,76236
+Italy,Europe,2015,Developed,82.7,56,673582
+Italy,Europe,2014,Developed,82.5,57,678914
+Italy,Europe,2013,Developed,82.3,58,6233948
+Italy,Europe,2012,Developed,82,6,59539717
+Italy,Europe,2011,Developed,82,6,59379449
+Italy,Europe,2010,Developed,81.8,6,59277417
+Jamaica,North America,2015,Developing,76.2,125,2871934
+Jamaica,North America,2014,Developing,75.8,133,286287
+Jamaica,North America,2013,Developing,75.6,136,285187
+Jamaica,North America,2012,Developing,75.3,138,284992
+Jamaica,North America,2011,Developing,75.2,139,2829493
+Jamaica,North America,2010,Developing,75,138,281721
+Japan,Asia,2015,Developed,83.7,55,127141
+Japan,Asia,2014,Developed,83.5,57,127276
+Japan,Asia,2013,Developed,83.5,56,127445
+Japan,Asia,2012,Developed,83.3,58,127629
+Japan,Asia,2011,Developed,82.5,64,127833
+Japan,Asia,2010,Developed,83,62,1287
+Jordan,Asia,2015,Developing,74.1,112,915932
+Jordan,Asia,2014,Developing,74,113,88936
+Jordan,Asia,2013,Developing,73.9,114,8413464
+Jordan,Asia,2012,Developing,73.7,115,7992573
+Jordan,Asia,2011,Developing,73.6,116,7574943
+Jordan,Asia,2010,Developing,73.4,117,718239
+Kazakhstan,A,2015,Developing,72,198,17544126
+Kazakhstan,Asia,2014,Developing,69.9,22,17289224
+Kazakhstan,Asia,2013,Developing,69.5,28,1735275
+Kazakhstan,Asia,2012,Developing,69.1,214,16791425
+Kazakhstan,Asia,2011,Developing,68.5,224,165566
+Kazakhstan,Asia,2010,Developing,67.8,236,16321581
+Kenya,Asia,2015,Developing,63.4,249,47236259
+Kenya,Africa,2014,Developing,62.9,255,462425
+Kenya,Africa,2013,Developing,62.6,258,44826849
+Kenya,Africa,2012,Developing,62.1,263,43646629
+Kenya,Africa,2011,Developing,61.2,278,42486839
+Kenya,Africa,2010,Developing,63,294,4135152
+Kiribati,Oceania,2015,Developing,66.3,198,11247
+Kiribati,Oceania,2014,Developing,66.1,2,11458
+Kiribati,Oceania,2013,Developing,65.8,22,18535
+Kiribati,Oceania,2012,Developing,65.7,24,16613
+Kiribati,Oceania,2011,Developing,65.5,26,14656
+Kiribati,Oceania,2010,Developing,65.3,27,12652
+Kuwait,Asia,2015,Developing,74.7,81,
+Kuwait,Asia,2014,Developing,74.6,82,
+Kuwait,Asia,2013,Developing,74.5,83,
+Kuwait,Asia,2012,Developing,74.3,84,
+Kuwait,Asia,2011,Developing,74.2,85,
+Kuwait,Asia,2010,Developing,74,86,
+Kyrgyzstan,Asia,2015,Developing,71.1,166,
+Kyrgyzstan,Asia,2014,Developing,78,17,
+Kyrgyzstan,Asia,2013,Developing,77,174,
+Kyrgyzstan,Asia,2012,Developing,69.9,18,
+Kyrgyzstan,Asia,2011,Developing,69.4,188,
+Kyrgyzstan,Asia,2010,Developing,68.8,199,
+Lao People's Democratic Republic,Asia,2015,Developing,65.7,194,
+Lao People's Democratic Republic,Asia,2014,Developing,65.3,199,
+Lao People's Democratic Republic,Asia,2013,Developing,64.9,23,
+Lao People's Democratic Republic,Asia,2012,Developing,64.4,28,
+Lao People's Democratic Republic,Asia,2011,Developing,64,213,
+Lao People's Democratic Republic,Asia,2010,Developing,63.6,218,
+Latvia,Europe,2015,Developed,74.6,153,1977527
+Latvia,Europe,2014,Developed,74.4,156,1993782
+Latvia,Europe,2013,Developed,74.1,161,212647
+Latvia,Europe,2012,Developed,73.8,163,234319
+Latvia,Europe,2011,Developed,73.6,169,25979
+Latvia,Europe,2010,Developed,72.8,18,297555
+Lebanon,Asia,2015,Developing,74.9,98,5851479
+Lebanon,Asia,2014,Developing,74.8,99,563279
+Lebanon,Asia,2013,Developing,74.9,97,527612
+Lebanon,Asia,2012,Developing,75,93,491644
+Lebanon,Asia,2011,Developing,75,93,4588368
+Lebanon,Asia,2010,Developing,74.9,94,4337141
+Lesotho,Africa,2015,Developing,53.7,484,2174645
+Lesotho,Africa,2014,Developing,52.1,522,2145785
+Lesotho,Africa,2013,Developing,52.1,518,2117361
+Lesotho,Africa,2012,Developing,52.2,513,289928
+Lesotho,Africa,2011,Developing,52.3,52,264166
+Lesotho,Africa,2010,Developing,51.1,527,24551
+Liberia,Africa,2015,Developing,61.4,259,4499621
+Liberia,Africa,2014,Developing,58.1,329,439737
+Liberia,Africa,2013,Developing,61.1,258,4286291
+Liberia,Africa,2012,Developing,67,261,4181563
+Liberia,Africa,2011,Developing,62,266,47167
+Liberia,Africa,2010,Developing,59.7,272,3948125
+Libya,Africa,2015,Developing,72.7,138,
+Libya,Africa,2014,Developing,72.4,143,
+Libya,Africa,2013,Developing,72.9,134,
+Libya,Africa,2012,Developing,72.9,133,
+Libya,Africa,2011,Developing,71.3,161,
+Libya,Africa,2010,Developing,72.8,132,
+Lithuania,Europe,2015,Developed,73.6,165,29491
+Lithuania,Europe,2014,Developed,73.4,169,2932367
+Lithuania,Europe,2013,Developed,73,178,2957689
+Lithuania,Europe,2012,Developed,73,176,2987773
+Lithuania,Europe,2011,Developed,72.8,18,328115
+Lithuania,Europe,2010,Developed,72.4,188,397282
+Luxembourg,Europe,2015,Developed,82,63,56964
+Luxembourg,Europe,2014,Developed,81.7,65,556319
+Luxembourg,Europe,2013,Developed,81.4,68,54336
+Luxembourg,Europe,2012,Developed,81.1,7,53946
+Luxembourg,Europe,2011,Developed,88,72,518347
+Luxembourg,Europe,2010,Developed,86,73,56953
+Madagascar,Africa,2015,Developing,65.5,22,2423488
+Madagascar,Africa,2014,Developing,65.1,225,2358981
+Madagascar,Africa,2013,Developing,64.7,23,22961146
+Madagascar,Africa,2012,Developing,64.3,235,22346573
+Madagascar,Africa,2011,Developing,63.8,241,21743949
+Madagascar,Africa,2010,Developing,63.3,248,2115164
+Malawi,Africa,2015,Developing,58.3,365,1757367
+Malawi,Africa,2014,Developing,57.6,377,1768838
+Malawi,Africa,2013,Developing,56.7,394,16577147
+Malawi,Africa,2012,Developing,55.3,42,169735
+Malawi,Africa,2011,Developing,54.1,441,15627618
+Malawi,Africa,2010,Developing,52.9,462,1516795
+Malaysia,Asia,2015,Developing,75,123,3723155
+Malaysia,Asia,2014,Developing,74.8,126,322817
+Malaysia,Asia,2013,Developing,74.6,128,2976724
+Malaysia,Asia,2012,Developing,74.5,129,2917456
+Malaysia,Asia,2011,Developing,74.3,13,28635128
+Malaysia,Asia,2010,Developing,74.1,131,28112289
+Maldives,Asia,2015,Developing,78.5,61,49163
+Maldives,Asia,2014,Developing,78.2,62,41
+Maldives,Asia,2013,Developing,77.9,64,393
+Maldives,Asia,2012,Developing,77.6,65,385
+Maldives,Asia,2011,Developing,77.3,67,377
+Maldives,Asia,2010,Developing,76.7,73,367
+Mali,Africa,2015,Developing,58.2,266,1746795
+Mali,Africa,2014,Developing,57.8,272,16962846
+Mali,Africa,2013,Developing,57.3,275,16477818
+Mali,Africa,2012,Developing,57.2,27,16667
+Mali,Africa,2011,Developing,56.8,271,1554989
+Mali,Africa,2010,Developing,56.5,273,157585
+Malta,Europe,2015,Developed,81.7,54,431874
+Malta,Europe,2014,Developed,81.4,55,427364
+Malta,Europe,2013,Developed,81.1,57,423374
+Malta,Europe,2012,Developed,81,58,419455
+Malta,Europe,2011,Developed,87,59,416268
+Malta,Europe,2010,Developed,83,62,41458
+Mauritania,Africa,2015,Developing,63.1,25,4182341
+Mauritania,Africa,2014,Developing,63,26,46392
+Mauritania,Africa,2013,Developing,62.7,28,394617
+Mauritania,Africa,2012,Developing,62.5,29,383239
+Mauritania,Africa,2011,Developing,62.2,212,3717672
+Mauritania,Africa,2010,Developing,62,214,369543
+Mauritius,Africa,2015,Developing,74.6,146,126265
+Mauritius,Africa,2014,Developing,74.2,148,126934
+Mauritius,Africa,2013,Developing,74.1,147,1258653
+Mauritius,Africa,2012,Developing,73.9,154,1255882
+Mauritius,Africa,2011,Developing,73.6,158,125244
+Mauritius,Africa,2010,Developing,73.3,163,1254
+Mexico,North America,2015,Developing,76.7,122,12589949
+Mexico,North America,2014,Developing,76.6,122,1242216
+Mexico,North America,2013,Developing,76.6,12,122535969
+Mexico,North America,2012,Developing,76.3,123,1282837
+Mexico,North America,2011,Developing,76.1,124,119917
+Mexico,North America,2010,Developing,75.6,127,117318941
+Micronesia,Oceania,2015,Developing,69.4,166,
+Micronesia,Oceania,2014,Developing,69.4,164,
+Micronesia,Oceania,2013,Developing,69.2,166,
+Micronesia,Oceania,2012,Developing,69,168,
+Micronesia,Oceania,2011,Developing,68.9,169,
+Micronesia,Oceania,2010,Developing,68.7,171,
+Mongolia,Asia,2015,Developing,68.8,222,2976877
+Mongolia,Asia,2014,Developing,68.4,225,2923896
+Mongolia,Asia,2013,Developing,68.1,227,286917
+Mongolia,Asia,2012,Developing,67.8,231,2814226
+Mongolia,Asia,2011,Developing,67.3,235,2761516
+Mongolia,Asia,2010,Developing,66.3,25,271265
+Montenegro,Europe,2015,Developing,76.1,16,622159
+Montenegro,Europe,2014,Developing,75.9,17,62181
+Montenegro,Europe,2013,Developing,75.8,19,62127
+Montenegro,Europe,2012,Developing,75.6,11,6261
+Montenegro,Europe,2011,Developing,75.4,113,6279
+Montenegro,Europe,2010,Developing,75.3,115,619428
+Morocco,Africa,2015,Developing,74.3,95,3483322
+Morocco,Africa,2014,Developing,74.1,96,3431882
+Morocco,Africa,2013,Developing,73.9,97,33824769
+Morocco,Africa,2012,Developing,73.6,99,33333789
+Morocco,Africa,2011,Developing,73.3,14,32858823
+Morocco,Africa,2010,Developing,72.8,11,3249639
+Mozambique,Africa,2015,Developing,57.6,355,281691
+Mozambique,Africa,2014,Developing,56.7,375,27212382
+Mozambique,Africa,2013,Developing,55.3,46,26434372
+Mozambique,Africa,2012,Developing,54.8,48,2567666
+Mozambique,Africa,2011,Developing,54.3,47,249395
+Mozambique,Africa,2010,Developing,54,47,2422145
+Myanmar,Asia,2015,Developing,66.6,199,5243669
+Myanmar,Asia,2014,Developing,66.4,21,51924182
+Myanmar,Asia,2013,Developing,66.2,22,51448196
+Myanmar,Asia,2012,Developing,65.9,25,5986514
+Myanmar,Asia,2011,Developing,65.6,27,555331
+Myanmar,Asia,2010,Developing,65.4,29,5155896
+Namibia,Africa,2015,Developing,65.8,248,2425561
+Namibia,Africa,2014,Developing,65.9,242,237992
+Namibia,Africa,2013,Developing,66.1,232,231652
+Namibia,Africa,2012,Developing,65.8,232,2263934
+Namibia,Africa,2011,Developing,64.3,268,2215621
+Namibia,Africa,2010,Developing,63,299,217317
+Nepal,Asia,2015,Developing,69.2,165,28656282
+Nepal,Asia,2014,Developing,69.6,158,28323241
+Nepal,Asia,2013,Developing,69.3,162,2798531
+Nepal,Asia,2012,Developing,68.9,167,27649925
+Nepal,Asia,2011,Developing,68.4,172,27327147
+Nepal,Asia,2010,Developing,68,178,2723137
+Netherlands,Europe,2015,Developed,81.9,57,16939923
+Netherlands,Europe,2014,Developed,81.7,58,168658
+Netherlands,Europe,2013,Developed,81.4,6,1684432
+Netherlands,Europe,2012,Developed,81.1,62,16754962
+Netherlands,Europe,2011,Developed,81.1,63,1669374
+Netherlands,Europe,2010,Developed,88,64,16615394
+New Zealand,Oceania,2015,Developed,81.6,66,
+New Zealand,Oceania,2014,Developed,81.5,67,
+New Zealand,Oceania,2013,Developed,81.3,69,
+New Zealand,Oceania,2012,Developed,81.1,7,
+New Zealand,Oceania,2011,Developed,86,72,
+New Zealand,Oceania,2010,Developed,89,71,
+Nicaragua,North America,2015,Developing,74.8,145,68235
+Nicaragua,North America,2014,Developing,74.5,148,613997
+Nicaragua,North America,2013,Developing,73.9,157,5945747
+Nicaragua,North America,2012,Developing,73.9,157,587718
+Nicaragua,North America,2011,Developing,74.5,147,58782
+Nicaragua,North America,2010,Developing,73.2,154,5737723
+Niger,Africa,2015,Developing,61.8,22,19896965
+Niger,Africa,2014,Developing,61.4,223,19148219
+Niger,Africa,2013,Developing,69,227,18426372
+Niger,Africa,2012,Developing,63,232,17731634
+Niger,Africa,2011,Developing,59.4,241,1764636
+Niger,Africa,2010,Developing,58.2,252,16425578
+Nigeria,Africa,2015,Developing,54.5,344,181181744
+Nigeria,Africa,2014,Developing,53.6,362,1764652
+Nigeria,Africa,2013,Developing,53.2,367,17182933
+Nigeria,Africa,2012,Developing,52.7,374,167297284
+Nigeria,Africa,2011,Developing,52.3,375,16287776
+Nigeria,Africa,2010,Developing,52,374,158578261
+Norway,Europe,2015,Developed,81.8,59,518867
+Norway,Europe,2014,Developed,81.6,61,5137232
+Norway,Europe,2013,Developed,81.5,62,579623
+Norway,Europe,2012,Developed,81.3,61,518573
+Norway,Europe,2011,Developed,81.1,67,495388
+Norway,Europe,2010,Developed,81,66,4889252
+Oman,Asia,2015,Developing,76.6,99,
+Oman,Asia,2014,Developing,76.4,11,
+Oman,Asia,2013,Developing,76.2,12,
+Oman,Asia,2012,Developing,76,14,
+Oman,Asia,2011,Developing,75.8,15,
+Oman,Asia,2010,Developing,75.6,16,
+Pakistan,Asia,2015,Developing,66.4,161,18938513
+Pakistan,Asia,2014,Developing,66.2,162,185546257
+Pakistan,Asia,2013,Developing,66,163,181712595
+Pakistan,Asia,2012,Developing,65.7,165,177911533
+Pakistan,Asia,2011,Developing,65.5,167,174184265
+Pakistan,Asia,2010,Developing,65.1,172,1756182
+Panama,North America,2015,Developing,77.8,118,3969249
+Panama,North America,2014,Developing,77.6,119,393986
+Panama,North America,2013,Developing,77.5,118,3838462
+Panama,North America,2012,Developing,77.2,12,3772938
+Panama,North America,2011,Developing,77.3,121,377782
+Panama,North America,2010,Developing,76.5,122,3643222
+Papua New Guinea,Oceania,2015,Developing,62.9,275,7919825
+Papua New Guinea,Oceania,2014,Developing,62.7,278,7755785
+Papua New Guinea,Oceania,2013,Developing,62.4,281,7592865
+Papua New Guinea,Oceania,2012,Developing,62.2,284,743836
+Papua New Guinea,Oceania,2011,Developing,62,285,7269348
+Papua New Guinea,Oceania,2010,Developing,61.8,286,718239
+Paraguay,South America,2015,Developing,74,146,6639119
+Paraguay,South America,2014,Developing,73.9,147,6552584
+Paraguay,South America,2013,Developing,73.8,148,646574
+Paraguay,South America,2012,Developing,73.6,148,6379219
+Paraguay,South America,2011,Developing,73.4,15,6293783
+Paraguay,South America,2010,Developing,73.2,152,629877
+Peru,South America,2015,Developing,75.5,123,31376671
+Peru,South America,2014,Developing,75.3,125,3973354
+Peru,South America,2013,Developing,75.3,125,3565716
+Peru,South America,2012,Developing,74.9,129,3158966
+Peru,South America,2011,Developing,74.5,133,29759989
+Peru,South America,2010,Developing,73.7,14,29373646
+Philippines,Asia,2015,Developing,68.5,211,11716359
+Philippines,Asia,2014,Developing,68.4,214,112249
+Philippines,Asia,2013,Developing,68.1,219,9848132
+Philippines,Asia,2012,Developing,68.1,217,96866642
+Philippines,Asia,2011,Developing,68,218,9527794
+Philippines,Asia,2010,Developing,67.9,218,93726624
+Poland,Europe,2015,Developed,77.5,117,37986412
+Poland,Europe,2014,Developed,77.3,12,3811735
+Poland,Europe,2013,Developed,77.1,12,384196
+Poland,Europe,2012,Developed,76.8,125,3863164
+Poland,Europe,2011,Developed,76.7,128,3863255
+Poland,Europe,2010,Developed,76.3,13,3842794
+Portugal,Europe,2015,Developed,81.1,76,135876
+Portugal,Europe,2014,Developed,89,78,14162
+Portugal,Europe,2013,Developed,86,79,1457295
+Portugal,Europe,2012,Developed,83,81,1514844
+Portugal,Europe,2011,Developed,82,85,155756
+Portugal,Europe,2010,Developed,79.6,88,15731
+Qatar,Asia,2015,Developing,78.2,68,
+Qatar,Asia,2014,Developing,78.1,69,
+Qatar,Asia,2013,Developing,77.9,7,
+Qatar,Asia,2012,Developing,77.8,72,
+Qatar,Asia,2011,Developing,77.5,74,
+Qatar,Asia,2010,Developing,77.3,76,
+South Korea,Asia,2015,Developing,82.3,64,
+South Korea,Asia,2014,Developing,82,66,
+South Korea,Asia,2013,Developing,81.7,68,
+South Korea,Asia,2012,Developing,81.2,69,
+South Korea,Asia,2011,Developing,81.1,72,
+South Korea,Asia,2010,Developing,87,74,
+Republic of Moldova,Europe,2015,Developing,72.1,157,
+Republic of Moldova,Europe,2014,Developing,71.8,162,
+Republic of Moldova,Europe,2013,Developing,71.7,163,
+Republic of Moldova,Europe,2012,Developing,79,175,
+Republic of Moldova,Europe,2011,Developing,77,177,
+Republic of Moldova,Europe,2010,Developing,68.8,219,
+Romania,Europe,2015,Developed,75,133,19815481
+Romania,Europe,2014,Developed,74.8,135,1998979
+Romania,Europe,2013,Developed,74.6,138,19983693
+Romania,Europe,2012,Developed,74.4,138,25835
+Romania,Europe,2011,Developed,74.3,139,2147528
+Romania,Europe,2010,Developed,73.4,153,2246871
+Russia,Europe,2015,Developing,75,222,1449687
+Russia,Europe,2014,Developing,73,225,143819666
+Russia,Europe,2013,Developing,70,229,14356911
+Russia,Europe,2012,Developing,69.6,237,14321676
+Russia,Europe,2011,Developing,69.4,242,14296868
+Russia,Europe,2010,Developing,68.4,256,142849449
+Rwanda,Africa,2015,Developing,66.1,227,11629553
+Rwanda,Africa,2014,Developing,65.7,23,11345357
+Rwanda,Africa,2013,Developing,65.2,233,1165151
+Rwanda,Africa,2012,Developing,64.6,239,1788853
+Rwanda,Africa,2011,Developing,63.8,247,151671
+Rwanda,Africa,2010,Developing,62.8,26,1246842
+Saint Lucia,North America,2015,Developing,75.2,138,
+Saint Lucia,North America,2014,Developing,75,139,
+Saint Lucia,North America,2013,Developing,74.8,141,
+Saint Lucia,North America,2012,Developing,74.7,142,
+Saint Lucia,North America,2011,Developing,74.6,143,
+Saint Lucia,North America,2010,Developing,74.2,147,
+Saint Vincent and the Grenadines,North America,2015,Developing,73.2,156,
+Saint Vincent and the Grenadines,North America,2014,Developing,73.1,157,
+Saint Vincent and the Grenadines,North America,2013,Developing,72.7,161,
+Saint Vincent and the Grenadines,North America,2012,Developing,72.8,159,
+Saint Vincent and the Grenadines,North America,2011,Developing,72.7,16,
+Saint Vincent and the Grenadines,North America,2010,Developing,72.5,162,
+Samoa,Oceania,2015,Developing,74,125,193759
+Samoa,Oceania,2014,Developing,73.8,128,19229
+Samoa,Oceania,2013,Developing,73.6,131,19757
+Samoa,Oceania,2012,Developing,73.2,136,189194
+Samoa,Oceania,2011,Developing,73,139,187665
+Samoa,Oceania,2010,Developing,72.6,144,18625
+Sao Tome and Principe,Africa,2015,Developing,67.5,19,195553
+Sao Tome and Principe,Africa,2014,Developing,67.3,191,191266
+Sao Tome and Principe,Africa,2013,Developing,67.1,192,18745
+Sao Tome and Principe,Africa,2012,Developing,66.9,194,182889
+Sao Tome and Principe,Africa,2011,Developing,66.6,198,1788
+Sao Tome and Principe,Africa,2010,Developing,66.2,24,174776
+Saudi Arabia,Asia,2015,Developing,74.5,88,
+Saudi Arabia,Asia,2014,Developing,74.4,88,
+Saudi Arabia,Asia,2013,Developing,74.3,89,
+Saudi Arabia,Asia,2012,Developing,74.1,9,
+Saudi Arabia,Asia,2011,Developing,73.9,92,
+Saudi Arabia,Asia,2010,Developing,73.7,94,
+Senegal,Africa,2015,Developing,66.7,188,14976994
+Senegal,Africa,2014,Developing,66.4,192,14546111
+Senegal,Africa,2013,Developing,66,196,141232
+Senegal,Africa,2012,Developing,65.6,2,1373513
+Senegal,Africa,2011,Developing,64.9,26,13391
+Senegal,Africa,2010,Developing,64.3,212,12916229
+Serbia,Europe,2015,Developing,75.6,121,795383
+Serbia,Europe,2014,Developing,75.4,123,713576
+Serbia,Europe,2013,Developing,75.3,122,7164132
+Serbia,Europe,2012,Developing,74.9,126,719977
+Serbia,Europe,2011,Developing,74.6,127,723499
+Serbia,Europe,2010,Developing,74.4,128,7291436
+Seychelles,Africa,2015,Developing,73.2,168,93419
+Seychelles,Africa,2014,Developing,73,17,91359
+Seychelles,Africa,2013,Developing,72.9,172,89949
+Seychelles,Africa,2012,Developing,72.7,174,8833
+Seychelles,Africa,2011,Developing,72.6,177,87441
+Seychelles,Africa,2010,Developing,72.4,18,8977
+Sierra Leone,Africa,2015,Developing,51,413,723725
+Sierra Leone,Africa,2014,Developing,48.1,463,779162
+Sierra Leone,Africa,2013,Developing,54,47,692279
+Sierra Leone,Africa,2012,Developing,49.7,411,676613
+Sierra Leone,Africa,2011,Developing,48.9,418,6611692
+Sierra Leone,Africa,2010,Developing,48.1,424,645872
+Singapore,Asia,2015,Developed,83.1,55,
+Singapore,Asia,2014,Developed,82.9,56,
+Singapore,Asia,2013,Developed,82.7,57,
+Singapore,Asia,2012,Developed,82.5,59,
+Singapore,Asia,2011,Developed,82.2,6,
+Singapore,Asia,2010,Developed,82,61,
+Slovakia,Europe,2015,Developed,76.7,19,
+Slovakia,Europe,2014,Developed,76.4,113,
+Slovakia,Europe,2013,Developed,76.1,114,
+Slovakia,Europe,2012,Developed,75.8,118,
+Slovakia,Europe,2011,Developed,75.6,122,
+Slovakia,Europe,2010,Developed,75.1,124,
+Slovenia,Europe,2015,Developed,88,74,263531
+Slovenia,Europe,2014,Developed,87,76,26198
+Slovenia,Europe,2013,Developed,85,78,259953
+Slovenia,Europe,2012,Developed,82,81,257159
+Slovenia,Europe,2011,Developed,79.8,84,252843
+Slovenia,Europe,2010,Developed,79.5,87,248583
+Solomon Islands,Oceania,2015,Developing,69.2,177,587482
+Solomon Islands,Oceania,2014,Developing,68.8,183,57554
+Solomon Islands,Oceania,2013,Developing,68.8,182,563513
+Solomon Islands,Oceania,2012,Developing,68.7,184,551531
+Solomon Islands,Oceania,2011,Developing,68.5,186,539614
+Solomon Islands,Oceania,2010,Developing,68.3,188,52779
+Somalia,Africa,2015,Developing,55,312,
+Somalia,Africa,2014,Developing,54.3,321,
+Somalia,Africa,2013,Developing,54.2,318,
+Somalia,Africa,2012,Developing,53.1,336,
+Somalia,Africa,2011,Developing,53.1,329,
+Somalia,Africa,2010,Developing,52.4,336,
+South Africa,Africa,2015,Developing,62.9,328,5511976.68
+South Africa,Africa,2014,Developing,62,347,54146734.74
+South Africa,Africa,2013,Developing,69,371,53311955.61
+South Africa,Africa,2012,Developing,59.2,48,5256515.8
+South Africa,Africa,2011,Developing,58.9,413,51729345.36
+South Africa,Africa,2010,Developing,58,428,5979432.36
+S. Sudan,Africa,2015,Developing,57.3,332,11882136
+S. Sudan,Africa,2014,Developing,56.6,343,1153971
+S. Sudan,Africa,2013,Developing,56.4,345,1117749
+S. Sudan,Africa,2012,Developing,56,347,1818258
+S. Sudan,Africa,2011,Developing,55.4,355,1448857
+S. Sudan,Africa,2010,Developing,55,359,167192
+Spain,Europe,2015,Developed,82.8,56,46447697
+Spain,Europe,2014,Developed,82.6,58,4648882
+Spain,Europe,2013,Developed,82.4,6,466245
+Spain,Europe,2012,Developed,82,61,4677355
+Spain,Europe,2011,Developed,82.1,63,46742697
+Spain,Europe,2010,Developed,81.9,64,46576897
+Sri Lanka,Asia,2015,Developing,74.9,138,2966
+Sri Lanka,Asia,2014,Developing,74.7,141,2771
+Sri Lanka,Asia,2013,Developing,74.6,142,2585
+Sri Lanka,Asia,2012,Developing,74.5,143,2425
+Sri Lanka,Asia,2011,Developing,74.5,141,2271
+Sri Lanka,Asia,2010,Developing,74.5,138,2119
+Sudan,Africa,2015,Developing,64.1,225,3864783
+Sudan,Africa,2014,Developing,63.8,229,37737913
+Sudan,Africa,2013,Developing,63.5,232,36849918
+Sudan,Africa,2012,Developing,63.2,235,3599192
+Sudan,Africa,2011,Developing,62.7,241,35167314
+Sudan,Africa,2010,Developing,62.5,243,34385963
+Suriname,South America,2015,Developing,71.6,176,55328
+Suriname,South America,2014,Developing,71.4,178,547928
+Suriname,South America,2013,Developing,71.2,179,54254
+Suriname,South America,2012,Developing,71.3,178,53777
+Suriname,South America,2011,Developing,76,187,531589
+Suriname,South America,2010,Developing,73,19,52613
+Swaziland,Africa,2015,Developing,58.9,373,131911
+Swaziland,Africa,2014,Developing,58.4,382,129597
+Swaziland,Africa,2013,Developing,57.6,393,1271456
+Swaziland,Africa,2012,Developing,56.5,412,1248158
+Swaziland,Africa,2011,Developing,55,438,1225258
+Swaziland,Africa,2010,Developing,53.6,459,122843
+Sweden,Europe,2015,Developed,82.4,53,9799186
+Sweden,Europe,2014,Developed,82.3,54,969611
+Sweden,Europe,2013,Developed,81.9,57,96379
+Sweden,Europe,2012,Developed,81.7,57,9519374
+Sweden,Europe,2011,Developed,81.7,58,9449213
+Sweden,Europe,2010,Developed,81.5,58,9378126
+Switzerland,Europe,2015,Developed,83.4,49,8282396
+Switzerland,Europe,2014,Developed,83.2,51,8188649
+Switzerland,Europe,2013,Developed,83,52,889346
+Switzerland,Europe,2012,Developed,82.7,54,7996861
+Switzerland,Europe,2011,Developed,82.6,55,7912398
+Switzerland,Europe,2010,Developed,82.3,57,782499
+Syrian Arab Republic,Asia,2015,Developing,64.5,293,18734987
+Syrian Arab Republic,Asia,2014,Developing,64.4,294,19239
+Syrian Arab Republic,Asia,2013,Developing,63.6,37,1989141
+Syrian Arab Republic,Asia,2012,Developing,62.8,32,24271
+Syrian Arab Republic,Asia,2011,Developing,71.7,163,2863993
+Syrian Arab Republic,Asia,2010,Developing,73.7,127,2118834
+Tajikistan,Asia,2015,Developing,69.7,161,8548651
+Tajikistan,Asia,2014,Developing,69.6,162,8362745
+Tajikistan,Asia,2013,Developing,69.3,163,817789
+Tajikistan,Asia,2012,Developing,68.8,164,799562
+Tajikistan,Asia,2011,Developing,68.1,166,7815949
+Tajikistan,Asia,2010,Developing,67.3,171,764163
+Thailand,Asia,2015,Developing,74.9,148,686576
+Thailand,Asia,2014,Developing,74.6,152,68416772
+Thailand,Asia,2013,Developing,74.5,153,6814365
+Thailand,Asia,2012,Developing,74.3,154,67843979
+Thailand,Asia,2011,Developing,74.1,155,675313
+Thailand,Asia,2010,Developing,73.9,158,672888
+The former Yugoslav republic of Macedonia,Europe,2015,Developing,75.7,12,
+The former Yugoslav republic of Macedonia,Europe,2014,Developing,75.5,12,
+The former Yugoslav republic of Macedonia,Europe,2013,Developing,75.3,14,
+The former Yugoslav republic of Macedonia,Europe,2012,Developing,75.1,15,
+The former Yugoslav republic of Macedonia,Europe,2011,Developing,74.9,17,
+The former Yugoslav republic of Macedonia,Europe,2010,Developing,74.7,18,
+Timor-Leste,Asia,2015,Developing,68.3,152,124977
+Timor-Leste,Asia,2014,Developing,68,155,1212814
+Timor-Leste,Asia,2013,Developing,67.7,158,1184366
+Timor-Leste,Asia,2012,Developing,67.4,159,115676
+Timor-Leste,Asia,2011,Developing,67.2,161,1131523
+Timor-Leste,Asia,2010,Developing,66.9,163,119591
+Togo,Africa,2015,Developing,59.9,287,741682
+Togo,Africa,2014,Developing,59.7,285,7228915
+Togo,Africa,2013,Developing,59.4,287,742948
+Togo,Africa,2012,Developing,58.9,294,6859482
+Togo,Africa,2011,Developing,58.3,34,6679282
+Togo,Africa,2010,Developing,57.4,323,652952
+Tonga,Oceania,2015,Developing,73.5,133,16364
+Tonga,Oceania,2014,Developing,73.3,135,15782
+Tonga,Oceania,2013,Developing,73.2,137,15328
+Tonga,Oceania,2012,Developing,73,138,14951
+Tonga,Oceania,2011,Developing,72.9,14,14577
+Tonga,Oceania,2010,Developing,72.8,142,14137
+Trinidad and Tobago,South America,2015,Developing,71.2,17,13692
+Trinidad and Tobago,South America,2014,Developing,71.1,171,1354493
+Trinidad and Tobago,South America,2013,Developing,71,172,1348248
+Trinidad and Tobago,South America,2012,Developing,78,174,1341588
+Trinidad and Tobago,South America,2011,Developing,76,176,1334788
+Trinidad and Tobago,South America,2010,Developing,74,179,13281
+Tunisia,Africa,2015,Developing,75.3,1,11273661
+Tunisia,Africa,2014,Developing,75.1,12,1114398
+Tunisia,Africa,2013,Developing,74.9,13,1114558
+Tunisia,Africa,2012,Developing,74.9,13,1886668
+Tunisia,Africa,2011,Developing,74.8,13,1761467
+Tunisia,Africa,2010,Developing,74.8,12,1639931
+Turkey,Asia,2015,Developing,75.8,16,78271472
+Turkey,Asia,2014,Developing,75.5,17,773628
+Turkey,Asia,2013,Developing,75.2,19,75787333
+Turkey,Asia,2012,Developing,74.8,112,74569867
+Turkey,Asia,2011,Developing,74.5,114,7349455
+Turkey,Asia,2010,Developing,74.2,116,72326914
+Turkmenistan,Asia,2015,Developing,66.3,215,5565284
+Turkmenistan,Asia,2014,Developing,66,217,5466241
+Turkmenistan,Asia,2013,Developing,65.4,228,5366277
+Turkmenistan,Asia,2012,Developing,65.6,22,5267839
+Turkmenistan,Asia,2011,Developing,65.6,217,517461
+Turkmenistan,Asia,2010,Developing,65.8,211,58721
+Uganda,Africa,2015,Developing,62.3,291,414487
+Uganda,Africa,2014,Developing,61.5,38,38833338
+Uganda,Africa,2013,Developing,67,325,37553726
+Uganda,Africa,2012,Developing,60,339,3636796
+Uganda,Africa,2011,Developing,59.3,347,3593648
+Uganda,Africa,2010,Developing,58.4,362,33915133
+Ukraine,Europe,2015,Developing,71.3,195,4515429
+Ukraine,Europe,2014,Developing,78,23,45271947
+Ukraine,Europe,2013,Developing,71,198,454896
+Ukraine,Europe,2012,Developing,77,25,455933
+Ukraine,Europe,2011,Developing,75,24,45761
+Ukraine,Europe,2010,Developing,69.8,212,45877
+United Arab Emirates,Asia,2015,Developing,77.1,75,
+United Arab Emirates,Asia,2014,Developing,76.9,77,
+United Arab Emirates,Asia,2013,Developing,76.7,78,
+United Arab Emirates,Asia,2012,Developing,76.5,8,
+United Arab Emirates,Asia,2011,Developing,76.3,81,
+United Arab Emirates,Asia,2010,Developing,76.2,82,
+United Kingdom,Europe,2015,Developed,81.2,69,
+United Kingdom,Europe,2014,Developed,81,71,
+United Kingdom,Europe,2013,Developed,87,72,
+United Kingdom,Europe,2012,Developed,86,72,
+United Kingdom,Europe,2011,Developed,86,74,
+United Kingdom,Europe,2010,Developed,82,77,
+Tanzania,Africa,2015,Developing,61.8,279,
+Tanzania,Africa,2014,Developing,67,34,
+Tanzania,Africa,2013,Developing,59.7,323,
+Tanzania,Africa,2012,Developing,58.6,348,
+Tanzania,Africa,2011,Developing,58.3,348,
+Tanzania,Africa,2010,Developing,57.5,36,
+United States of America,North America,2015,Developed,79.3,13,
+United States of America,North America,2014,Developed,79.1,14,
+United States of America,North America,2013,Developed,78.9,16,
+United States of America,North America,2012,Developed,78.8,16,
+United States of America,North America,2011,Developed,78.7,16,
+United States of America,North America,2010,Developed,78.7,15,
+Uruguay,South America,2015,Developing,77,116,3431552
+Uruguay,South America,2014,Developing,76.8,117,3419546
+Uruguay,South America,2013,Developing,76.8,117,3485
+Uruguay,South America,2012,Developing,76.5,118,3396777
+Uruguay,South America,2011,Developing,77,111,3385624
+Uruguay,South America,2010,Developing,76.3,118,3374415
+Uzbekistan,Asia,2015,Developing,69.4,184,312989
+Uzbekistan,Asia,2014,Developing,69.2,184,37577
+Uzbekistan,Asia,2013,Developing,69.1,185,32432
+Uzbekistan,Asia,2012,Developing,68.8,184,297745
+Uzbekistan,Asia,2011,Developing,68.5,183,293394
+Uzbekistan,Asia,2010,Developing,68.3,183,285624
+Vanuatu,Oceania,2015,Developing,72,13,26463
+Vanuatu,Oceania,2014,Developing,71.7,134,25885
+Vanuatu,Oceania,2013,Developing,71.6,135,253142
+Vanuatu,Oceania,2012,Developing,71.4,138,247485
+Vanuatu,Oceania,2011,Developing,71.2,141,241871
+Vanuatu,Oceania,2010,Developing,71,145,236295
+Venezuela,South America,2015,Developing,74.1,157,
+Venezuela,South America,2014,Developing,73.9,158,
+Venezuela,South America,2013,Developing,73.8,159,
+Venezuela,South America,2012,Developing,73.7,161,
+Venezuela,South America,2011,Developing,73.8,158,
+Venezuela,South America,2010,Developing,73.7,158,
+Vietnam,Asia,2015,Developing,76,127,
+Vietnam,Asia,2014,Developing,75.9,128,
+Vietnam,Asia,2013,Developing,75.7,129,
+Vietnam,Asia,2012,Developing,75.6,13,
+Vietnam,Asia,2011,Developing,75.4,131,
+Vietnam,Asia,2010,Developing,75.2,133,
+Yemen,Asia,2015,Developing,65.7,224,
+Yemen,Asia,2014,Developing,65.4,228,
+Yemen,Asia,2013,Developing,65.4,226,
+Yemen,Asia,2012,Developing,64.7,236,
+Yemen,Asia,2011,Developing,64.6,234,
+Yemen,Asia,2010,Developing,64.4,233,
+Zambia,Africa,2015,Developing,61.8,33,161587
+Zambia,Africa,2014,Developing,61.1,314,1562974
+Zambia,Africa,2013,Developing,63,328,1515321
+Zambia,Africa,2012,Developing,59.2,349,14699937
+Zambia,Africa,2011,Developing,58.2,366,14264756
+Zambia,Africa,2010,Developing,58,363,138533
+Zimbabwe,Africa,2015,Developing,67,336,15777451
+Zimbabwe,Africa,2014,Developing,59.2,371,15411675
+Zimbabwe,Africa,2013,Developing,58,399,155456
+Zimbabwe,Africa,2012,Developing,56.6,429,1471826
+Zimbabwe,Africa,2011,Developing,54.9,464,14386649
+Zimbabwe,Africa,2010,Developing,52.4,527,1486317
