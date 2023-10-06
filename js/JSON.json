@@ -199,6 +199,34 @@
             {"field": "Population", "type": "quantitative", "format": ","}
           ]
         }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "right",
+          "baseline": "middle",
+          "dx": -10,
+          "fontSize": 9,
+          "fontStyle": "italic"
+        },
+        "encoding": {
+          "text": {"field": "Country", "type": "nominal"},
+          "color": {"value": "black"},
+          "opacity": {
+            "condition": {
+              "test": "datum['Country'] == 'China' || datum['Country'] == 'Australia'",
+              "value": 1
+            },
+            "value": 0
+          },
+          "tooltip": [
+            {"field": "Country", "type": "nominal"},
+            {"field": "Year", "type": "quantitative"},
+            {"field": "Adult Mortality", "type": "quantitative"},
+            {"field": "Life Expectancy", "type": "quantitative" },
+            {"field": "Population", "type": "quantitative", "format": ","}
+          ]
+        }
       }]
   }],
     "config": {}  
