@@ -1,8 +1,5 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 1000,
-    "height": 600,
-    "title": "Life Expectancy from 2010 to 2015",
     "params": [
       {
       "name": "Year_selection",
@@ -14,90 +11,195 @@
         "step": 1,
         "name": "Year: "
       }
-      }],
-    "projection": {
-        "type": "equalEarth"
+      },
+      {
+        "name": "Continent_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "North America",
+            "South America",
+            "Europe",
+            "Africa",
+            "Asia",
+            "Oceania"
+          ],
+          "labels": [
+            "Show All",
+            "North America",
+            "South America",
+            "Europe",
+            "Africa",
+            "Asia",
+            "Oceania"
+          ],
+          "name": "Continent Selection: "
+        }}],
+    "vconcat": [{
+      "width": "container",
+      "height": 450,
+      "title": "Life Expectancy from 2010 to 2015",
+      "projection": {"type": "equalEarth"},
+      "layer": [
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/js/oceans.topojson",
+            "format": {"type": "topojson", "feature": "oceans"}
+          },
+          "mark": {"type": "geoshape", "fill": "#CBE5FC"}
+        },
+        {
+          "data":
+        {
+          "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/js/ne_110m.topojson",
+          "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+        },
+          "transform": [
+            {"calculate": "'Data is not available in ' + datum.properties.NAME", "as": "note"}
+          ],
+          "mark": {"type": "geoshape", "fill": "white", "stroke": "black"},
+          "encoding": {
+            "tooltip": {
+              "field": "note"
+            }
+          }
+        },
+        {
+          "data":{
+            "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/data/Life_Expectancy_Data_2010_15.csv"
+          },
+          "transform": [
+            {
+              "lookup": "Country",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT-3179-Week-9-Homework/main/js/ne_110m.topojson",
+                  "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+                },
+                "key": "properties.NAME"
+              },
+              "as": "geo"
+            },
+            {"filter": "datum.Year == Year_selection"}
+          ],
+          "mark": {"type": "geoshape", "stroke": "black"},
+          "encoding": {
+            "shape": {"field": "geo", "type": "geojson"},
+            "color": {
+              "field": "Life Expectancy",
+              "type": "quantitative",
+              "scale": {
+                "type": "threshold",
+                "domain": [60, 70, 80],
+                "range": ["#E8DFC0", "#E6BF3A", "#C69E16", "#8B6D07"]
+              },
+              "legend": {
+                "title": "Life Expectancy",
+                "values": [0, 35, 60, 70, 80, 89]
+              }
+            },
+            "tooltip": [
+              {"field": "Country", "type": "nominal", "title": "Country"},
+              {"field": "Year", "type": "quantitative", "title": "Year"},
+              {"field": "Life Expectancy", "type": "quantitative"},
+              {"field": "Status", "type": "nominal"}
+            ]
+          }
+        },
+        {
+          "data":{
+            "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/js/ne_110m.topojson",
+            "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+          },
+          "mark": {"type": "geoshape", "fill": null, "stroke": "gray"}
+        },
+        {
+          "data":{
+            "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/js/ne_110m_wgs84_bounding_box.topojson",
+            "format": {"type": "topojson", "feature": "ne_110m_wgs84_bounding_box"}
+          },
+          "mark": {"type": "geoshape", "fill": null, "stroke": "gray"}
+        }
+      ]
+  }, 
+  {
+    "width": "container",
+    "height": 260,
+    "title": "Adult Mortality vs Life Expectancy from 2010 to 2015",
+    "data": {
+      "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/data/Life_Expectancy_Data_2010_15.csv"
+    },
+    "transform": [
+      {
+        "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+      },
+      {"filter": "datum.Year == Year_selection"}
+    ],
+    "encoding": {
+      "x": {
+        "field": "Adult Mortality",
+        "type": "quantitative",
+        "title": "Adult Mortality (No. of people)",
+        "axis": {"tickCount": 7},
+        "scale": {"domain": [1, 700]}
+      },
+      "y": {
+        "field": "Life Expectancy",
+        "type": "quantitative",
+        "axis": {"tickCount": 5},
+        "scale": {"domain": [1, 90]}
+      }
     },
     "layer": [
       {
-        "data": {
-          "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/js/oceans.topojson",
-          "format": {"type": "topojson", "feature": "oceans"}
-        },
-        "mark": {"type": "geoshape", "fill": "#CBE5FC"}
-      },
-      {
-        "data":
-      {
-        "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/js/ne_110m.topojson",
-        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-      },
-        "transform": [
-          {"calculate": "'Data is not available in ' + datum.properties.NAME", "as": "note"}
-        ],
-        "mark": {"type": "geoshape", "fill": "white", "stroke": "black"},
+        "mark": "circle",
         "encoding": {
-          "tooltip": {
-            "field": "note"
-          }
-        }
-      },
-      {
-        "data":{
-          "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/data/Life_Expectancy_Data_2010_15.csv"
-        },
-        "transform": [
-          {
-            "lookup": "Country",
-            "from": {
-              "data": {
-                "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT-3179-Week-9-Homework/main/js/ne_110m.topojson",
-                "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-              },
-              "key": "properties.NAME"
-            },
-            "as": "geo"
-          },
-          {"filter": "datum.Year == Year_selection"}
-        ],
-        "mark": {"type": "geoshape", "stroke": "black"},
-        "encoding": {
-          "shape": {"field": "geo", "type": "geojson"},
-          "color": {
-            "field": "Life Expectancy",
+          "size": {
+            "field": "Population",
             "type": "quantitative",
             "scale": {
               "type": "threshold",
-              "domain": [60, 70, 80],
-              "range": ["#E8DFC0", "#E6BF3A", "#C69E16", "#8B6D07"]
+              "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
+              "range": [10, 50, 150, 200, 300, 400]
             },
             "legend": {
-              "title": "Life Expectancy",
-              "values": [0, 35, 60, 70, 80, 89]
+              "format": ".1s",
+              "orient": "bottom"
             }
           },
+          "color": {
+            "field": "Continent",
+            "type": "nominal",
+            "scale": {
+              "domain": [
+                "North America",
+                "South America",
+                "Europe",
+                "Africa",
+                "Asia",
+                "Oceania"
+              ],
+              "range": [
+                "#e41a1c",
+                "#984ea3",
+                "#ff7f00",
+                "#a6cee3",
+                "#377eb8",
+                "#a65628"
+              ]
+            }
+          },
+          "opacity": {"value": 0.6},
           "tooltip": [
-            {"field": "Country", "type": "nominal", "title": "Country"},
-            {"field": "Year", "type": "quantitative", "title": "Year"},
-            {"field": "Life Expectancy", "type": "quantitative"},
-            {"field": "Status", "type": "nominal"}
+            {"field": "Country", "type": "nominal"},
+            {"field": "Year", "type": "quantitative"},
+            {"field": "Adult Mortality", "type": "quantitative"},
+            {"field": "Life Expectancy", "type": "quantitative" },
+            {"field": "Population", "type": "quantitative", "format": ","}
           ]
         }
-      },
-      {
-        "data":{
-          "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/js/ne_110m.topojson",
-          "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
-        },
-        "mark": {"type": "geoshape", "fill": null, "stroke": "gray"}
-      },
-      {
-        "data":{
-          "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/js/ne_110m_wgs84_bounding_box.topojson",
-          "format": {"type": "topojson", "feature": "ne_110m_wgs84_bounding_box"}
-        },
-        "mark": {"type": "geoshape", "fill": null, "stroke": "gray"}
-      }
-    ],
+      }]
+  }],
     "config": {}  
   }
