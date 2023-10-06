@@ -185,8 +185,7 @@
             {"field": "Country", "type": "nominal"},
             {"field": "Year", "type": "quantitative"},
             {"field": "Adult Mortality", "type": "quantitative"},
-            {"field": "Life Expectancy", "type": "quantitative" },
-            {"field": "Population", "type": "quantitative", "format": ","}
+            {"field": "Life Expectancy", "type": "quantitative" }
           ]
         }
       },
@@ -213,8 +212,7 @@
             {"field": "Country", "type": "nominal"},
             {"field": "Year", "type": "quantitative"},
             {"field": "Adult Mortality", "type": "quantitative"},
-            {"field": "Life Expectancy", "type": "quantitative" },
-            {"field": "Population", "type": "quantitative", "format": ","}
+            {"field": "Life Expectancy", "type": "quantitative" }
           ]
         }
       }
