@@ -3,6 +3,18 @@
     "width": 1000,
     "height": 600,
     "title": "Life Expectancy 2015",
+    "params": [
+      {
+      "name": "Year_selection",
+      "value": 2015,
+      "bind": {
+      "input": "range",
+      "min": 2010,
+      "max": 2015,
+      "step": 1,
+      "name": "Year: "
+      }
+      }],
     "data":
       {
         "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/js/ne_110m.topojson",
@@ -23,7 +35,7 @@
         "transform": [
           {"calculate": "'Data is not available in ' + datum.properties.NAME", "as": "note"}
         ],
-        "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "black"},
+        "mark": {"type": "geoshape", "fill": "white", "stroke": "black"},
         "encoding": {
           "tooltip": {
             "field": "note"
@@ -36,12 +48,13 @@
             "lookup": "properties.NAME",
             "from": {
               "data": {
-                "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/data/Life_Expectancy_Data_2015.csv"
+                "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/data/Life_Expectancy_Data_2010_15.csv"
               },
               "key": "Country",
-              "fields": ["Life Expectancy", "Status"]
+              "fields": ["Year", "Life Expectancy", "Status"]
             }
-          }
+          },
+          {"filter": "datum.Year == Year_selection"}
         ],
         "mark": {"type": "geoshape", "stroke": "black"},
         "encoding": {
@@ -55,7 +68,7 @@
             },
             "legend": {
               "title": "Life Expectancy",
-              "values": [0, 51, 60, 70, 80, 88]
+              "values": [0, 35, 60, 70, 80, 89]
             }
           },
           "tooltip": [
