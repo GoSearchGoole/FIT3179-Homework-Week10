@@ -5,7 +5,7 @@
     "title": "Life Expectancy 2015",
     "data":
       {
-        "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT-3179-Week-9-Homework/main/js/ne_110m.topojson",
+        "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/js/ne_1.topojson",
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
       },
     "projection": {
@@ -14,8 +14,8 @@
     "layer": [
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT-3179-Week-9-Homework/main/js/oceans.topojson",
-          "format": {"type": "topojson", "feature": "oceans"}
+          "url": "https://raw.githubusercontent.com/GoSearchGoole/FIT3179-Homework-Week10/main/js/ne_1.topojson",
+          "format": {"type": "topojson", "feature": "ne_10m_ocean"}
         },
         "mark": {"type": "geoshape", "fill": "#CBE5FC"}
       },
